@@ -1,0 +1,70 @@
+[provider] chat = openai:gpt-6-luna | embedding = gemini:gemini-embedding-001
+[audit] chat 177 saved
+[audit] chat 178 saved
+[audit] chat 179 saved
+[audit] chat 180 saved
+[audit] chat 181 saved
+[audit] chat 182 saved
+[audit] chat 183 saved
+[audit] chat 184 saved
+[audit] chat 185 saved
+[audit] chat 186 saved
+[audit] chat 187 saved
+[audit] chat 188 saved
+[audit] chat 189 saved
+[audit] chat 190 saved
+[audit] chat 191 saved
+[audit] chat 192 saved
+[audit] chat 193 saved
+[audit] chat 194 saved
+[audit] chat 195 saved
+[audit] chat 196 saved
+[audit] chat 198 saved
+[audit] chat 199 saved
+Q1 flat  recall=1.00 8.13s $0.00009
+[audit] chat 201 saved
+[audit] chat 202 saved
+Q1 graph recall=1.00 8.84s $0.00036
+[audit] chat 204 saved
+[audit] chat 205 saved
+Q2 flat  recall=1.00 7.79s $0.00009
+[audit] chat 207 saved
+[audit] chat 208 saved
+Q2 graph recall=1.00 7.13s $0.00055
+[audit] chat 210 saved
+[audit] chat 211 saved
+Q3 flat  recall=0.33 9.15s $0.00011
+[audit] chat 213 saved
+[audit] chat 214 saved
+Q3 graph recall=1.00 9.32s $0.00053
+[audit] chat 216 saved
+[audit] chat 217 saved
+Q4 flat  recall=0.33 8.24s $0.00010
+[audit] chat 219 saved
+[audit] chat 220 saved
+Q4 graph recall=0.67 10.54s $0.00058
+[audit] chat 222 saved
+[audit] chat 223 saved
+Q5 flat  recall=0.40 12.86s $0.00014
+[audit] chat 225 saved
+[audit] chat 226 saved
+Q5 graph recall=0.60 13.54s $0.00051
+[audit] chat 228 saved
+[audit] chat 229 saved
+Q6 flat  recall=0.00 14.65s $0.00013
+[audit] chat 231 saved
+[audit] chat 232 saved
+Q6 graph recall=0.67 27.98s $0.00059
+Chat model: openai:gpt-6-luna | Embedding: gemini:gemini-embedding-001 | top_k=3 | chunk_size=800 | chunks=176 | KG: 203 nodes / 378 rels
+
+== Indexing (one-off)
+pipeline  calls    in_tok  out_tok       USD  seconds
+flat        176         0        0   0.00000    219.3
+graph       196     35866     7876   0.00752    517.5
+
+== Querying (mean per question)
+pipeline  recall  judge   in_tok  out_tok       USD  seconds
+flat        0.51   1.33      729       77   0.00011    10.14
+graph       0.82   1.67     4451      154   0.00052    12.89
+
+Saved ket_qua_benchmark_kg.txt

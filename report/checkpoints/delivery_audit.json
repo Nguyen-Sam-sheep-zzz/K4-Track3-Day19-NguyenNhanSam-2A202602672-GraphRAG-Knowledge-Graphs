@@ -1,0 +1,31 @@
+{
+  "checks": {
+    "frozen_original_files": {
+      "bench_kg.py": true,
+      "tests/test_base.py": true,
+      "tests/test_graph.py": true,
+      "data/benchmark_kg.json": true
+    },
+    "api_secret_leak_paths": [],
+    "git_history_api_secret_clean": true,
+    "env_venv_cache_not_tracked": true,
+    "standard_12_rows": true,
+    "extended_40_unique_rows": true,
+    "extended_summary_present": true,
+    "all_20_question_sources_exist": true,
+    "graph_stats_match_standard_extended": true,
+    "triples_count_matches_relationships": true,
+    "all_triples_have_sources": true,
+    "all_nodes_have_3072d_metadata": true,
+    "neo4j_all_nodes_have_embeddings": true,
+    "bfs_limits_and_unique_nodes": true,
+    "judge_scores_valid": true,
+    "three_pngs_present": true,
+    "reports_present_no_template": true
+  },
+  "passed": true,
+  "extended_rows": 40,
+  "branch": "feature/day19-completion",
+  "head": "859e8d144140d6eab6e2a7088018fb54bc0f656b",
+  "delivery_note": "Local audit only; no GitHub push, repository rename, bonus or VLearn submission claimed."
+}

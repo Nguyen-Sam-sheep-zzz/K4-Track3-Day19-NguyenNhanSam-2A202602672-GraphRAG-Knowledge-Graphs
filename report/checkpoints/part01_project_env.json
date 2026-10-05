@@ -1,0 +1,26 @@
+{
+  "checked_at_utc": "2026-10-05T04:10:08.179364+00:00",
+  "config_source": "project_dotenv_only",
+  "credentials": {
+    "OPENAI_API_KEY": "set",
+    "OPENAI_BASE_URL": "missing"
+  },
+  "models": {
+    "chat": "openai:gpt-6-luna",
+    "embedding": "openai:text-embedding-3-small"
+  },
+  "chat": {
+    "status": "error",
+    "error_type": "AuthenticationError",
+    "http_status": 401,
+    "error_code": "invalid_api_key",
+    "param": null
+  },
+  "embedding": {
+    "status": "error",
+    "error_type": "AuthenticationError",
+    "http_status": 401,
+    "error_code": "invalid_api_key",
+    "param": null
+  }
+}

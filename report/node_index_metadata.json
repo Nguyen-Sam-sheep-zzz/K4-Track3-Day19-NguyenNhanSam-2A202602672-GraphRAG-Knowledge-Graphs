@@ -1,0 +1,2340 @@
+{
+  "model": "gemini:gemini-embedding-001",
+  "fingerprint": "bc731a51d69e9ddcd9d87b4f345f0d584c213b2ccd8c2f5e6f6a1fbb14be3d83",
+  "nodes": [
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:0",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 259 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 05 năm đến 10 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-259"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:1",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 259 BLHS khoản 3 | 3. Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm.",
+      "source_doc_ids": [
+        "blhs-dieu-259"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:10",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 7 | 7. Phòng, chống ma túy là phòng ngừa, ngăn chặn, đấu tranh chống tội phạm\nvà tệ nạn ma túy; kiểm soát các hoạt động hợp pháp liên quan đến ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:100",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Võ Nữ Minh Thư",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:101",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Đinh Đức Tuấn",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:102",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Trần Ngọc Thảo",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:103",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Anh Hai",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn | Lê Văn Đông trốn khỏi Viện Pháp y tâm thần Trung ương, mang ma túy đến Sầm Sơn và tổ chức sử dụng cùng một số người, trong đó có điều dưỡng Trần Quốc An. Cơ quan điều tra còn thu giữ ma túy và dụng cụ sử dụng ma túy tại buồng điều trị của Đông và Mai Anh.",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:105",
+      "labels": [
+        "Location"
+      ],
+      "text": "Location: Thanh Hóa",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:106",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: nước vui",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:107",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Ngô Việt Dũng",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:108",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Cao Thị Bích Hằng",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:109",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Chuyên án A3-626P bắt giữ 2 đối tượng, thu 40kg ma túy | Trong chuyên án A3-626P, lực lượng Bộ đội Biên phòng bắt giữ 2 đối tượng và thu giữ 40kg ma túy. Bài báo không nêu địa điểm, thời gian xảy ra vụ việc hoặc tội danh của các đối tượng.",
+      "source_doc_ids": [
+        "news-100261002184934505"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:11",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 8 | 8. Tệ nạn ma túy là việc sử dụng trái phép chất ma túy, nghiện ma túy và các\nhành vi vi phạm pháp luật về ma túy mà chưa đến mức hoặc không bị truy cứu\ntrách nhiệm hình sự.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:110",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: ma túy",
+      "source_doc_ids": [
+        "news-100261002184934505"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:12",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 9 | 9. Kiểm soát các hoạt động hợp pháp liên quan đến ma túy là việc cho phép,\ntheo dõi, kiểm tra, giám sát các hoạt động hợp pháp liên quan đến ma túy và phòng\nngừa, ngăn chặn việc lợi dụng các hoạt động đó vào mục đích khác.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:13",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 10 | 10. Người sử dụng trái phép chất ma túy là người có hành vi sử dụng chất ma\ntúy mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm\nquyền và xét nghiệm chất ma túy trong cơ thể có kết quả dương tính.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:14",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 11 | 11. Xét nghiệm chất ma túy trong cơ thể là việc thực hiện các kỹ thuật chuyên\nmôn nhằm xác định chất ma túy trong cơ thể thông qua mẫu nước tiểu, mẫu máu\nhoặc các mẫu vật khác của cơ thể người.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:15",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 12 | 12. Người nghiện ma túy là người sử dụng chất ma túy, thuốc gây nghiện,\nthuốc hướng thần và bị lệ thuộc vào các chất này.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:16",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 13 | 13. Cai nghiện ma túy là quá trình thực hiện các hoạt động hỗ trợ về y tế, tâm\nlý, xã hội, giúp người nghiện ma túy dừng sử dụng chất ma túy, thuốc gây nghiện,\nthuốc hướng thần, phục hồi thể chất, tinh thần, nâng cao nhận thức, thay đổi hành\nvi để chấm dứt việc sử dụng trái phép các chất này.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:17",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 14 | 14. Cơ sở cai nghiện ma túy là cơ sở được thành lập để thực hiện đầy đủ quy\ntrình cai nghiện theo quy định của Luật này, bao gồm cơ sở cai nghiện ma túy\ncông lập và cơ sở cai nghiện ma túy tự nguyện.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 3 Luật PCMT | Chính sách của Nhà nước về phòng, chống ma túy",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:182",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 247 BLHS | Tội trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:183",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:184",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 247 BLHS khoản 1 | 1. Người nào trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy do Chính phủ quy định thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 06 tháng đến 03 năm:\n\na) Đã được giáo dục 02 lần và đã được tạo điều kiện ổn định cuộc sống;\n\nb) Đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm;\n\nc) Với số lượng từ 500 cây đến dưới 3.000 cây.",
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: cần sa",
+      "source_doc_ids": [
+        "blhs-dieu-247",
+        "blhs-dieu-248",
+        "blhs-dieu-249",
+        "blhs-dieu-250",
+        "blhs-dieu-251",
+        "blhs-dieu-252",
+        "news-100260924105118645",
+        "news-100260930085028036",
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: thuốc phiện",
+      "source_doc_ids": [
+        "blhs-dieu-247",
+        "blhs-dieu-248",
+        "blhs-dieu-249",
+        "blhs-dieu-250",
+        "blhs-dieu-251",
+        "blhs-dieu-252",
+        "pcmt-dieu-2",
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: côca",
+      "source_doc_ids": [
+        "blhs-dieu-247",
+        "blhs-dieu-248",
+        "blhs-dieu-249",
+        "blhs-dieu-250",
+        "blhs-dieu-251",
+        "blhs-dieu-252",
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:188",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 247 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 03 năm đến 07 năm:\n\na) Có tổ chức;\n\nb) Với số lượng 3.000 cây trở lên;\n\nc) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:189",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 247 BLHS khoản 3 | 3. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng.",
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:19",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 1 | 1. Thực hiện đồng bộ các biện pháp phòng, chống ma túy; kết hợp với phòng,\nchống HIV/AIDS và các tệ nạn xã hội khác.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:190",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 247 BLHS khoản 4 | 4. Người nào phạm tội thuộc khoản 1 Điều này, nhưng đã tự nguyện phá bỏ, giao nộp cho cơ quan chức năng có thẩm quyền trước khi thu hoạch, thì có thể được miễn trách nhiệm hình sự.",
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:191",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 248 BLHS | Tội sản xuất trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:192",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: sản xuất trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:193",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 248 BLHS khoản 1 | 1. Người nào sản xuất trái phép chất ma túy dưới bất kỳ hình thức nào, thì bị phạt tù từ 02 năm đến 07 năm.",
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 248 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Lợi dụng chức vụ, quyền hạn;\n\nd) Lợi dụng danh nghĩa cơ quan, tổ chức;\n\nđ) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 500 gam đến dưới 01 kilôgam;\n\ne) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 05 gam đến dưới 30 gam;\n\ng) Các chất ma túy khác ở thể rắn có khối lượng từ 20 gam đến dưới 100 gam;\n\nh) Các chất ma túy khác ở thể lỏng có thể tích từ 100 mililít đến dưới 200 mililít;\n\ni) Tái phạm nguy hiểm;\n\nk) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm đ đến điểm h khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: Heroine",
+      "source_doc_ids": [
+        "blhs-dieu-248",
+        "blhs-dieu-249",
+        "blhs-dieu-250",
+        "blhs-dieu-251",
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: Cocaine",
+      "source_doc_ids": [
+        "blhs-dieu-248",
+        "blhs-dieu-249",
+        "blhs-dieu-250",
+        "blhs-dieu-251",
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: Methamphetamine",
+      "source_doc_ids": [
+        "blhs-dieu-248",
+        "blhs-dieu-249",
+        "blhs-dieu-250",
+        "blhs-dieu-251",
+        "blhs-dieu-252",
+        "news-100260924105118645",
+        "news-100260924145818945",
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: Amphetamine",
+      "source_doc_ids": [
+        "blhs-dieu-248",
+        "blhs-dieu-249",
+        "blhs-dieu-250",
+        "blhs-dieu-251",
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: MDMA",
+      "source_doc_ids": [
+        "blhs-dieu-248",
+        "blhs-dieu-249",
+        "blhs-dieu-250",
+        "blhs-dieu-251",
+        "blhs-dieu-252",
+        "news-100260917203001265",
+        "news-100260918080821054",
+        "news-100260924105118645",
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:2",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 1 Luật PCMT | Phạm vi điều chỉnh",
+      "source_doc_ids": [
+        "pcmt-dieu-1"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:20",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 2 | 2. Tăng cường hoạt động tuyên truyền, giáo dục về công tác phòng, chống ma\ntúy; khuyến khích tổ chức, cá nhân tham gia tuyên truyền, giáo dục phòng, chống\nma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: XLR-11",
+      "source_doc_ids": [
+        "blhs-dieu-248",
+        "blhs-dieu-249",
+        "blhs-dieu-250",
+        "blhs-dieu-251",
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 248 BLHS khoản 3 | 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 15 năm đến 20 năm:\n\na) Có tính chất chuyên nghiệp;\n\nb) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01 kilôgam đến dưới 05 kilôgam;\n\nc) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 30 gam đến dưới 100 gam;\n\nd) Các chất ma túy khác ở thể rắn có khối lượng từ 100 gam đến dưới 300 gam;\n\nđ) Các chất ma túy khác ở thể lỏng có thể tích từ 200 mililít đến dưới 750 mililít;\n\ne) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm b đến điểm đ khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 248 BLHS khoản 4 | 4. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù 20 năm, tù chung thân hoặc tử hình:\n\na) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng 05 kilôgam trở lên;\n\nb) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng 100 gam trở lên;\n\nc) Các chất ma túy khác ở thể rắn có khối lượng 300 gam trở lên;\n\nd) Các chất ma túy khác ở thể lỏng có thể tích 750 mililít trở lên;\n\nđ) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm d khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:203",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 248 BLHS khoản 5 | 5. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 500.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.",
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:204",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 249 BLHS | Tội tàng trữ trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:205",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: tàng trữ trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-249",
+        "news-100260922111804786",
+        "news-100260924105118645",
+        "news-100260925144412498",
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 249 BLHS khoản 1 | 1. Người nào tàng trữ trái phép chất ma túy mà không nhằm mục đích mua bán, vận chuyển, sản xuất trái phép chất ma túy thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 01 năm đến 05 năm:\n\na) Đã bị xử phạt vi phạm hành chính về hành vi quy định tại Điều này hoặc đã bị kết án về tội này hoặc một trong các tội quy định tại các điều 248, 250, 251 và 252 của Bộ luật này, chưa được xóa án tích mà còn vi phạm;\n\nb) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01 gam đến dưới 500 gam;\n\nc) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 0,1 gam đến dưới 05 gam;\n\nd) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 01 kilôgam đến dưới 10 kilôgam;\n\nđ) Quả thuốc phiện khô có khối lượng từ 05 kilôgam đến dưới 50 kilôgam;\n\ne) Quả thuốc phiện tươi có khối lượng từ 01 kilôgam đến dưới 10 kilôgam;\n\ng) Các chất ma túy khác ở thể rắn có khối lượng từ 01 gam đến dưới 20 gam;\n\nh) Các chất ma túy khác ở thể lỏng có thể tích từ 10 mililít đến dưới 100 mililít;\n\ni) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm b đến điểm h khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 249 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 05 năm đến 10 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Lợi dụng chức vụ, quyền hạn;\n\nd) Lợi dụng danh nghĩa cơ quan, tổ chức;\n\nđ) Sử dụng người dưới 16 tuổi vào việc phạm tội;\n\ne) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 500 gam đến dưới 01 kilôgam;\n\ng) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 05 gam đến dưới 30 gam;\n\nh) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 10 kilôgam đến dưới 25 kilôgam;\n\ni) Quả thuốc phiện khô có khối lượng từ 50 kilôgam đến dưới 200 kilôgam;\n\nk) Quả thuốc phiện tươi có khối lượng từ 10 kilôgam đến dưới 50 kilôgam;\n\nl) Các chất ma túy khác ở thể rắn có khối lượng từ 20 gam đến dưới 100 gam;\n\nm) Các chất ma túy khác ở thể lỏng có thể tích từ 100 mililít đến dưới 250 mililít;\n\nn) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm e đến điểm m khoản này;\n\no) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 249 BLHS khoản 3 | 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 10 năm đến 15 năm:\n\na) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01 kilôgam đến dưới 05 kilôgam;\n\nb) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 30 gam đến dưới 100 gam;\n\nc) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 25 kilôgam đến dưới 75 kilôgam;\n\nd) Quả thuốc phiện khô có khối lượng từ 200 kilôgam đến dưới 600 kilôgam;\n\nđ) Quả thuốc phiện tươi có khối lượng tù 50 kilôgam đến dưới 150 kilôgam;\n\ne) Các chất ma túy khác ở thể rắn có khối lượng từ 100 gam đến dưới 300 gam;\n\ng) Các chất ma túy khác ở thể lỏng có thể tích từ 250 mililít đến dưới 750 mililít;\n\nh) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 249 BLHS khoản 4 | 4. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 15 năm đến 20 năm hoặc tù chung thân:\n\na) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng 05 kilôgam trở lên;\n\nb) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng 100 gam trở lên;\n\nc) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng 75 kilôgam trở lên;\n\nd) Quả thuốc phiện khô có khối lượng 600 kilôgam trở lên;\n\nđ) Quả thuốc phiện tươi có khối lượng 150 kilôgam trở lên;\n\ne) Các chất ma túy khác ở thể rắn có khối lượng 300 gam trở lên;\n\ng) Các chất ma túy khác ở thể lỏng có thể tích 750 mililít trở lên;\n\nh) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:21",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 3 | 3. Ưu tiên nguồn lực phòng, chống ma túy cho vùng đồng bào dân tộc thiểu số\nvà miền núi, vùng sâu, vùng xa, hải đảo, khu vực biên giới và địa bàn phức tạp về\nma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:210",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 249 BLHS khoản 5 | 5. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 500.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.",
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:211",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 250 BLHS | Tội vận chuyển trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:212",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: vận chuyển trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-250",
+        "news-100260917203001265",
+        "news-100260918080821054"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 250 BLHS khoản 1 | 1. Người nào vận chuyển trái phép chất ma túy mà không nhằm mục đích sản xuất, mua bán, tàng trữ trái phép chất ma túy thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 năm đến 07 năm:\n\na) Đã bị xử phạt vi phạm hành chính về hành vi quy định tại Điều này hoặc đã bị kết án về tội này hoặc một trong các tội quy định tại các điều 248, 249, 251 và 252 của Bộ luật này, chưa được xóa án tích mà còn vi phạm;\n\nb) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01 gam đến dưới 500 gam;\n\nc) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 0,1 gam đến dưới 05 gam;\n\nd) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 01 kilôgam đến dưới 10 kilôgam;\n\nđ) Quả thuốc phiện khô có khối lượng từ 05 kilôgam đến dưới 50 kilôgam;\n\ne) Quả thuốc phiện tươi có khối lượng từ 01 kilôgam đến dưới 10 kilôgam;\n\ng) Các chất ma túy khác ở thể rắn có khối lượng từ 01 gam đến dưới 20 gam;\n\nh) Các chất ma túy khác ở thể lỏng có thể tích từ 10 mililít đến dưới 100 mililít;\n\ni) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm b đến điểm h khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 250 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Lợi dụng chức vụ, quyền hạn;\n\nd) Lợi dụng danh nghĩa cơ quan, tổ chức;\n\nđ) Sử dụng người dưới 16 tuổi vào việc phạm tội;\n\ne) Qua biên giới;\n\ng) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 500 gam đến dưới 01 kilôgam;\n\nh) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 05 gam đến dưới 30 gam;\n\ni) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 10 kilôgam đến dưới 25 kilôgam;\n\nk) Quả thuốc phiện khô có khối lượng từ 50 kilôgam đến dưới 200 kilôgam;\n\nl) Quả thuốc phiện tươi có khối lượng từ 10 kilôgam đến dưới 50 kilôgam;\n\nm) Các chất ma túy khác ở thể rắn có khối lượng từ 20 gam đến dưới 100 gam;\n\nn) Các chất ma túy khác ở thể lỏng có thể tích từ 100 mililít đến dưới 250 mililít;\n\no) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm g đến điểm n khoản này;\n\np) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 250 BLHS khoản 3 | 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 15 năm đến 20 năm:\n\na) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01 kilôgam đến dưới 05 kilôgam;\n\nb) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 30 gam đến dưới 100 gam;\n\nc) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 25 kilôgam đến dưới 75 kilôgam;\n\nd) Quả thuốc phiện khô có khối lượng từ 200 kilôgam đến dưới 600 kilôgam;\n\nđ) Quả thuốc phiện tươi có khối lượng từ 50 kilôgam đến dưới 150 kilôgam;\n\ne) Các chất ma túy khác ở thể rắn có khối lượng từ 100 gam đến dưới 300 gam;\n\ng) Các chất ma túy khác ở thể lỏng có thể tích từ 250 mililít đến dưới 750 mililít;\n\nh) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 250 BLHS khoản 4 | 4. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù 20 năm, tù chung thân hoặc tử hình:\n\na) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng 05 kilôgam trở lên;\n\nb) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng 100 gam trở lên;\n\nc) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng 75 kilôgam trở lên;\n\nd) Quả thuốc phiện khô có khối lượng 600 kilôgam trở lên;\n\nđ) Quả thuốc phiện tươi có khối lượng 150 kilôgam trở lên;\n\ne) Các chất ma túy khác ở thể rắn có khối lượng 300 gam trở lên;\n\ng) Các chất ma túy khác ở thể lỏng có thể tích 750 mililít trở lên;\n\nh) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:217",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 250 BLHS khoản 5 | 5. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 500.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.",
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:218",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 251 BLHS | Tội mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:219",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-251",
+        "news-100260918080821054",
+        "news-100260920221957595",
+        "news-100260922111804786",
+        "news-100260924105118645",
+        "news-100260925144412498",
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:22",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 4 | 4. Cán bộ, chiến sĩ thuộc cơ quan chuyên trách phòng, chống tội phạm về ma\ntúy, người làm công tác cai nghiện ma túy trong các cơ sở cai nghiện ma túy công\nlập được hưởng chế độ, chính sách ưu đãi phù hợp với tính chất nhiệm vụ, địa bàn\nhoạt động theo quy định của Chính phủ.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:220",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 251 BLHS khoản 1 | 1. Người nào mua bán trái phép chất ma túy, thì bị phạt tù từ 02 năm đến 07 năm.",
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 251 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Đối với 02 người trở lên;\n\nd) Lợi dụng chức vụ, quyền hạn;\n\nđ) Lợi dụng danh nghĩa cơ quan, tổ chức;\n\ne) Sử dụng người dưới 16 tuổi vào việc phạm tội hoặc bán ma túy cho người dưới 16 tuổi;\n\ng) Qua biên giới;\n\nh) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 500 gam đến dưới 01 kilôgam;\n\ni) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 05 gam đến dưới 30 gam;\n\nk) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 10 kilôgam đến dưới 25 kilôgam;\n\nl) Quả thuốc phiện khô có khối lượng từ 50 kilôgam đến dưới 200 kilôgam;\n\nm) Quả thuốc phiện tươi có khối lượng từ 10 kilôgam đến dưới 50 kilôgam;\n\nn) Các chất ma túy khác ở thể rắn có khối lượng từ 20 gam đến dưới 100 gam;\n\no) Các chất ma túy khác ở thể lỏng có thể tích từ 100 mililít đến dưới 250 mililít;\n\np) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm h đến điểm o khoản này;\n\nq) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 251 BLHS khoản 3 | 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 15 năm đến 20 năm:\n\na) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01 kilôgam đến dưới 05 kilôgam;\n\nb) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 30 gam đến dưới 100 gam;\n\nc) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 25 kilôgam đến dưới 75 kilôgam;\n\nd) Quả thuốc phiện khô có khối lượng từ 200 kilôgam đến dưới 600 kilôgam;\n\nđ) Quả thuốc phiện tươi có khối lượng từ 50 kilôgam đến dưới 150 kilôgam;\n\ne) Các chất ma túy khác ở thể rắn có khối lượng từ 100 gam đến dưới 300 gam;\n\ng) Các chất ma túy khác ở thể lỏng có thể tích từ 250 mililít đến dưới 750 mililít;\n\nh) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 251 BLHS khoản 4 | 4. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù 20 năm, tù chung thân hoặc tử hình:\n\na) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng 05 kilôgam trở lên;\n\nb) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng 100 gam trở lên;\n\nc) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng 75 kilôgam trở lên;\n\nd) Quả thuốc phiện khô có khối lượng 600 kilôgam trở lên;\n\nđ) Quả thuốc phiện tươi có khối lượng 150 kilôgam trở lên;\n\ne) Các chất ma túy khác ở thể rắn có khối lượng 300 gam trở lên;\n\ng) Các chất ma túy khác ở thể lỏng có thể tích 750 mililít trở lên;\n\nh) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:224",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 251 BLHS khoản 5 | 5. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 500.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.",
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:225",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 252 BLHS | Tội chiếm đoạt chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:226",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: chiếm đoạt chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 252 BLHS khoản 1 | 1. Người nào chiếm đoạt chất ma túy dưới bất kỳ hình thức nào thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 01 năm đến 05 năm:\n\na) Đã bị xử phạt vi phạm hành chính về hành vi quy định tại Điều này hoặc đã bị kết án về tội này hoặc một trong các tội quy định tại các điều 248, 249, 250 và 251 của Bộ luật này, chưa được xóa án tích mà còn vi phạm;\n\nb) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01 gam đến dưới 500 gam;\n\nc) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 0,1 gam đến dưới 05 gam;\n\nd) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 01 kilôgam đến dưới 10 kilôgam;\n\nđ) Quả thuốc phiện khô có khối lượng từ 05 kilôgam đến dưới 50 kilôgam;\n\ne) Quả thuốc phiện tươi có khối lượng từ 01 kilôgam đến dưới 10 kilôgam;\n\ng) Các chất ma túy khác ở thể rắn có khối lượng từ 01 gam đến dưới 20 gam;\n\nh) Các chất ma túy khác ở thể lỏng có thể tích từ 10 mililít đến dưới 100 mililít;\n\ni) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm b đến điểm h khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 252 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 05 năm đến 10 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Lợi dụng chức vụ, quyền hạn;\n\nd) Lợi dụng danh nghĩa cơ quan, tổ chức;\n\nđ) Sử dụng người dưới 16 tuổi vào việc phạm tội;\n\ne) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 500 gam đến dưới 01 kilôgam;\n\ng) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 05 gam đến dưới 30 gam;\n\nh) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 10 kilôgam đến dưới 25 kilôgam;\n\ni) Quả thuốc phiện khô có khối lượng từ 50 kilôgam đến dưới 200 kilôgam;\n\nk) Quả thuốc phiện tươi có khối lượng từ 10 kilôgam đến dưới 50 kilôgam;\n\nl) Các chất ma túy khác ở thể rắn có khối lượng từ 20 gam đến dưới 100 gam;\n\nm) Các chất ma túy khác ở thể lỏng có thể tích từ 100 mililít đến dưới 250 mililít;\n\nn) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm e đến điểm m khoản này;\n\no) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 252 BLHS khoản 3 | 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 10 năm đến 15 năm:\n\na) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01 kilôgam đến dưới 05 kilôgam;\n\nb) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng từ 30 gam đến dưới 100 gam;\n\nc) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng từ 25 kilôgam đến dưới 75 kilôgam;\n\nd) Quả thuốc phiện khô có khối lượng từ 200 kilôgam đến dưới 600 kilôgam;\n\nđ) Quả thuốc phiện tươi có khối lượng từ 50 kilôgam đến dưới 150 kilôgam;\n\ne) Các chất ma túy khác ở thể rắn có khối lượng từ 100 gam đến dưới 300 gam;\n\ng) Các chất ma túy khác ở thể lỏng có thể tích từ 250 mililít đến dưới 750 mililít;\n\nh) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:23",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 5 | 5. Bảo vệ, hỗ trợ cá nhân, gia đình, cơ quan, tổ chức tham gia phòng, chống\nma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 252 BLHS khoản 4 | 4. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 15 năm đến 20 năm hoặc tù chung thân:\n\na) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng 05 kilôgam trở lên;\n\nb) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng 100 gam trở lên;\n\nc) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng 75 kilôgam trở lên;\n\nd) Quả thuốc phiện khô có khối lượng 600 kilôgam trở lên;\n\nđ) Quả thuốc phiện tươi có khối lượng 150 kilôgam trở lên;\n\ne) Các chất ma túy khác ở thể rắn có khối lượng 300 gam trở lên;\n\ng) Các chất ma túy khác ở thể lỏng có thể tích 750 mililít trở lên;\n\nh) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.",
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:231",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 252 BLHS khoản 5 | 5. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 500.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.",
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:232",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 253 BLHS | Tội tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:233",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:234",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 253 BLHS khoản 1 | 1. Người nào tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 01 năm đến 06 năm:\n\na) Đã bị xử phạt vi phạm hành chính về một trong các hành vi quy định tại Điều này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm;\n\nb) Tiền chất ở thể rắn có khối lượng từ 50 gam đến dưới 200 gam;\n\nc) Tiền chất ở thể lỏng có thể tích từ 75 mililít đến dưới 300 mililít.",
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:235",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 253 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 06 năm đến 13 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Lợi dụng chức vụ, quyền hạn;\n\nd) Lợi dụng danh nghĩa Cơ quan, tổ chức;\n\nđ) Tiền chất ở thể rắn có khối lượng từ 200 gam đến dưới 500 gam;\n\ne) Tiền chất ở thể lỏng có thể tích từ 300 mililít đến dưới 750 mililít;\n\ng) Sử dụng người dưới 16 tuổi vào việc phạm tội;\n\nh) Vận chuyển, mua bán qua biên giới;\n\ni) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:236",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 253 BLHS khoản 3 | 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 13 năm đến 20 năm:\n\na) Tiền chất ở thể rắn có khối lượng từ 500 gam đến dưới 1.200 gam;\n\nb) Tiền chất ở thể lỏng có thể tích từ 750 mililít đến dưới 1.800 mililít.",
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:237",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 253 BLHS khoản 4 | 4. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù 20 năm hoặc tù chung thân:\n\na) Tiền chất ở thể rắn có khối lượng 1.200 gam trở lên;\n\nb) Tiền chất ở thể lỏng có thể tích 1.800 mililít trở lên.",
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:238",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 253 BLHS khoản 5 | 5. Trường hợp phạm tội có cả tiền chất ở thể rắn và tiền chất ở thể lỏng thì được quy đổi để làm căn cứ truy cứu trách nhiệm hình sự, với tỷ lệ 01 gam tiền chất ở thể rắn tương đương với 1,5 mililít tiền chất ở thể lỏng. Sau khi quy đổi, số lượng tiền chất thuộc khoản nào, thì người thực hiện hành vi phạm tội bị truy cứu trách nhiệm hình sự theo khoản đó.",
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:239",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 253 BLHS khoản 6 | 6. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.",
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:24",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 6 | 6. Quản lý chặt chẽ người sử dụng trái phép chất ma túy, người nghiện ma túy;\nkhuyến khích người nghiện ma túy tự nguyện cai nghiện ma túy, điều trị nghiện\ncác chất dạng thuốc phiện bằng thuốc thay thế; khuyến khích cá nhân, gia đình, cơ\nquan, tổ chức tham gia, hỗ trợ hoạt động cai nghiện ma túy, quản lý sau cai nghiện\nma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:240",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 254 BLHS | Tội sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-254"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:241",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-254"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:242",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 254 BLHS khoản 1 | 1. Người nào sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 01 năm đến 05 năm:\n\na) Đã bị xử phạt vi phạm hành chính về một trong các hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm;\n\nb) Có số lượng từ 06 đơn vị đến 19 đơn vị dụng cụ, phương tiện cùng loại hoặc khác loại.",
+      "source_doc_ids": [
+        "blhs-dieu-254"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:243",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 254 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 05 năm đến 10 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Lợi dụng chức vụ, quyền hạn;\n\nd) Lợi dụng danh nghĩa cơ quan, tổ chức;\n\nđ) Có số lượng 20 đơn vị dụng cụ, phương tiện cùng loại hoặc khác loại trở lên;\n\ne) Vận chuyển, mua bán qua biên giới;\n\ng) Sử dụng người dưới 16 tuổi vào việc phạm tội;\n\nh) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-254"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:244",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 254 BLHS khoản 3 | 3. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 500.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.",
+      "source_doc_ids": [
+        "blhs-dieu-254"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:245",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 255 BLHS | Tội tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:246",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-255",
+        "news-100260920221957595",
+        "news-100260922111804786",
+        "news-100260924095400982",
+        "news-100260924101703641",
+        "news-100260924105118645",
+        "news-100260925144412498",
+        "news-100260928173914514",
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:247",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 255 BLHS khoản 1 | 1. Người nào tổ chức sử dụng trái phép chất ma túy dưới bất kỳ hình thức nào, thì bị phạt tù từ 02 năm đến 07 năm.",
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:248",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 255 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:\n\na) Phạm tội 02 lần trở lên;\n\nb) Đối với 02 người trở lên;\n\nc) Đối với người từ đủ 13 tuổi đến dưới 18 tuổi;\n\nd) Đối với phụ nữ mà biết là có thai;\n\nđ) Đối với người đang cai nghiện;\n\ne) Gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 31% đến 60%;\n\ng) Gây bệnh nguy hiểm cho người khác;\n\nh) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:249",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 255 BLHS khoản 3 | 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 15 năm đến 20 năm:\n\na) Gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 61% trở lên hoặc gây chết người;\n\nb) Gây tổn hại cho sức khỏe của 02 người trở lên mà tỷ lệ tổn thương cơ thể của mỗi người từ 31% đến 60%;\n\nc) Gây bệnh nguy hiểm cho 02 người trở lên;\n\nd) Đối với người dưới 13 tuổi.",
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:25",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 7 | 7. Bảo đảm kinh phí cai nghiện ma túy bắt buộc; hỗ trợ kinh phí cai nghiện ma\ntúy tự nguyện, kinh phí quản lý sau cai nghiện ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:250",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 255 BLHS khoản 4 | 4. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù 20 năm hoặc tù chung thân:\n\na) Gây tổn hại cho sức khỏe của 02 người trở lên mà tỷ lệ tổn thương cơ thể của mỗi người 61% trở lên;\n\nb) Làm chết 02 người trở lên.",
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:251",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 255 BLHS khoản 5 | 5. Người phạm tội còn có thể bị phạt tiền từ 50.000.000 đồng đến 500.000.000 đồng, phạt quản chế, cấm cư trú từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản.",
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:252",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 256 BLHS | Tội chứa chấp việc sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-256"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:253",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: chứa chấp việc sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-256"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:254",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 256 BLHS khoản 1 | 1. Người nào cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy, nếu không thuộc trường hợp quy định tại Điều 255 của Bộ luật này, thì bị phạt tù từ 02 năm đến 07 năm.",
+      "source_doc_ids": [
+        "blhs-dieu-256"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:255",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 256 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:\n\na) Lợi dụng chức vụ, quyền hạn;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Đối với người dưới 16 tuổi;\n\nd) Đối với 02 người trở lên;\n\nđ) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-256"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:256",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 256 BLHS khoản 3 | 3. Người phạm tội còn có thể bị phạt tiền từ 50.000.000 đồng đến 200.000.000 đồng hoặc tịch thu một phần hoặc toàn bộ tài sản.",
+      "source_doc_ids": [
+        "blhs-dieu-256"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:257",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 257 BLHS | Tội cưỡng bức người khác sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:258",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: cưỡng bức người khác sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:259",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 257 BLHS khoản 1 | 1. Người nào dùng vũ lực, đe dọa dùng vũ lực hoặc dùng thủ đoạn khác uy hiếp tinh thần của người khác để buộc họ phải sử dụng trái phép chất ma túy trái với ý muốn của họ, thì bị phạt tù từ 02 năm đến 07 năm.",
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:26",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 8 | 8. Tổ chức, cá nhân trong nước và ngoài nước đầu tư vào hoạt động cai nghiện\nma túy, hỗ trợ quản lý sau cai nghiện ma túy, phòng, chống tái nghiện ma túy được\nmiễn, giảm tiền thuê đất, thuế thu nhập doanh nghiệp theo quy định của pháp luật.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:260",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 257 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 07 năm đến 15 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Vì động cơ đê hèn hoặc vì tư lợi;\n\nd) Đối với người từ đủ 13 tuổi đến dưới 18 tuổi;\n\nđ) Đối với phụ nữ mà biết là có thai;\n\ne) Đối với 02 người trở lên;\n\ng) Đối với người đang cai nghiện;\n\nh) Gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 31% đến 60%;\n\ni) Gây bệnh nguy hiểm cho người khác;\n\nk) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:261",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 257 BLHS khoản 3 | 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 15 năm đến 20 năm:\n\na) Gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 61% trở lên hoặc gây chết người;\n\nb) Gây bệnh nguy hiểm cho 02 người trở lên;\n\nc) Đối với người dưới 13 tuổi.",
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:262",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 257 BLHS khoản 4 | 4. Phạm tội trong trường hợp làm chết 02 người trở lên, thì bị phạt tù 20 năm hoặc tù chung thân.",
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:263",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 257 BLHS khoản 5 | 5. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 100.000.000 đồng.",
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:264",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 258 BLHS | Tội lôi kéo người khác sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:265",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: lôi kéo người khác sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:266",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 258 BLHS khoản 1 | 1. Người nào rủ rê, dụ dỗ, xúi giục hoặc bằng các thủ đoạn khác nhằm lôi kéo người khác sử dụng trái phép chất ma túy, thì bị phạt tù từ 01 năm đến 05 năm.",
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:267",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 258 BLHS khoản 2 | 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 05 năm đến 10 năm:\n\na) Có tổ chức;\n\nb) Phạm tội 02 lần trở lên;\n\nc) Vì động cơ đê hèn hoặc vì tư lợi;\n\nd) Đối với người từ đủ 13 tuổi đến dưới 18 tuổi;\n\nđ) Đối với phụ nữ mà biết là có thai;\n\ne) Đối với 02 người trở lên;\n\ng) Đối với người đang cai nghiện;\n\nh) Gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể từ 31% đến 60%;\n\ni) Gây bệnh nguy hiểm cho người khác;\n\nk) Tái phạm nguy hiểm.",
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:268",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 258 BLHS khoản 3 | 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 10 năm đến 15 năm:\n\na) Gây tổn hại cho sức khỏe của người khác mà tỷ lệ tổn thương cơ thể 61% trở lên hoặc gây chết người;\n\nb) Gây bệnh nguy hiểm cho 02 người trở lên;\n\nc) Đối với người dưới 13 tuổi.",
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:269",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 258 BLHS khoản 4 | 4. Phạm tội trong trường hợp gây chết 02 người trở lên, thì bị phạt tù từ 15 năm đến 20 năm hoặc tù chung thân.",
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:27",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 9 | 9. Khuyến khích nghiên cứu khoa học, phát triển công nghệ và ứng dụng công\nnghệ cao trong phòng, chống ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:270",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 258 BLHS khoản 5 | 5. Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 100.000.000 đồng.",
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:271",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 259 BLHS | Tội vi phạm quy định về quản lý chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần",
+      "source_doc_ids": [
+        "blhs-dieu-259"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:272",
+      "labels": [
+        "Crime"
+      ],
+      "text": "Crime: vi phạm quy định về quản lý chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần",
+      "source_doc_ids": [
+        "blhs-dieu-259"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:273",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 259 BLHS khoản 1 | 1. Người nào có trách nhiệm trong quản lý chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần mà thực hiện một trong các hành vi sau đây, đã bị xử lý kỷ luật hoặc xử phạt vi phạm hành chính về một trong các hành vi quy định tại Điều này hoặc đã bị kết án về một trong các tội quy định tại Chương XX của Bộ luật này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm:\n\na) Vi phạm quy định về xuất khẩu, nhập khẩu, tạm nhập, tái xuất, quá cảnh chất ma túy, tiền chất, thuốc gây nghiện hoặc thuốc hướng thần;\n\nb) Vi phạm quy định về nghiên cứu, giám định, sản xuất, bảo quản chất ma túy, tiền chất, thuốc gây nghiện hoặc thuốc hướng thần;\n\nc) Vi phạm quy định về giao nhận, vận chuyển chất ma túy, tiền chất, thuốc gây nghiện hoặc thuốc hướng thần;\n\nd) Vi phạm quy định về phân phối, mua bán, trao đổi chất ma túy, tiền chất, thuốc gây nghiện hoặc thuốc hướng thần;\n\nđ) Vi phạm quy định về quản lý, kiểm soát, lưu giữ chất ma túy, tiền chất, thuốc gây nghiện hoặc thuốc hướng thần tại khu vực cửa khẩu, khu vực biên giới, trên biển;\n\ne) Vi phạm quy định về cấp phát, cho phép sử dụng chất ma túy, thuốc gây nghiện hoặc thuốc hướng thần.",
+      "source_doc_ids": [
+        "blhs-dieu-259"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:28",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 3 Luật PCMT khoản 10 | 10. Khen thưởng cá nhân, tổ chức, cơ quan có thành tích trong phòng, chống\nma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:29",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 4 Luật PCMT | Nguồn tài chính cho phòng, chống ma túy",
+      "source_doc_ids": [
+        "pcmt-dieu-4"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 2 Luật PCMT | Giải thích từ ngữ",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:30",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 4 Luật PCMT khoản 1 | 1. Ngân sách nhà nước.",
+      "source_doc_ids": [
+        "pcmt-dieu-4"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:31",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 4 Luật PCMT khoản 2 | 2. Nguồn tài trợ, viện trợ, đầu tư, tặng cho của tổ chức, cá nhân trong nước và\nngoài nước.",
+      "source_doc_ids": [
+        "pcmt-dieu-4"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:32",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 4 Luật PCMT khoản 3 | 3. Chi trả của gia đình, người nghiện ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-4"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:33",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 4 Luật PCMT khoản 4 | 4. Các nguồn tài chính hợp pháp khác.",
+      "source_doc_ids": [
+        "pcmt-dieu-4"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+      "labels": [
+        "Article"
+      ],
+      "text": "Article: Điều 5 Luật PCMT | Các hành vi bị nghiêm cấm",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:35",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 1 | 1. Trồng cây có chứa chất ma túy, hướng dẫn trồng cây có chứa chất ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:36",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 2 | 2. Nghiên cứu, giám định, kiểm nghiệm, kiểm định, sản xuất, tàng trữ, vận\nchuyển, bảo quản, tồn trữ, mua bán, phân phối, xử lý, trao đổi, xuất khẩu, nhập\nkhẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh trái phép chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là\ndược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y\ncó chứa chất ma túy, tiền chất.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:37",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 3 | 3. Chiếm đoạt chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần,\nthuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng\nthần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:38",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 4 | 4. Giao nhận, quản lý, kiểm soát, lưu giữ, cấp phát, bảo quản chất ma túy, tiền\nchất trái quy định của pháp luật; cho phép người sử dụng chất ma túy, thuốc gây\nnghiện hoặc thuốc hướng thần trái quy định của pháp luật.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:39",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 5 | 5. Sử dụng, tổ chức sử dụng trái phép chất ma túy; cưỡng bức, lôi kéo người\nkhác sử dụng trái phép chất ma túy; chứa chấp, hỗ trợ việc sử dụng trái phép chất\nma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:4",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 1 | 1. Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh\nmục chất ma túy do Chính phủ ban hành.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:40",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 6 | 6. Sản xuất, tàng trữ, vận chuyển, mua bán phương tiện, dụng cụ dùng vào việc\nsản xuất hoặc sử dụng trái phép chất ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:41",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 7 | 7. Chống lại hoặc cản trở việc xét nghiệm chất ma túy trong cơ thể, xác định\ntình trạng nghiện ma túy, quản lý người sử dụng trái phép chất ma túy, cai nghiện\nma túy, quản lý sau cai nghiện ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:42",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 8 | 8. Trả thù hoặc cản trở người thực thi nhiệm vụ phòng, chống ma túy, người\ntham gia phòng, chống ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:43",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 9 | 9. Lợi dụng chức vụ, quyền hạn, nghề nghiệp để vi phạm pháp luật về phòng,\nchống ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:44",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 10 | 10. Hướng dẫn sản xuất, hướng dẫn sử dụng trái phép chất ma túy; quảng cáo,\ntiếp thị chất ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:45",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 11 | 11. Kỳ thị người sử dụng trái phép chất ma túy, người cai nghiện ma túy,\nngười sau cai nghiện ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:46",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 5 Luật PCMT khoản 12 | 12. Các hành vi bị nghiêm cấm khác do luật định liên quan đến ma túy.",
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:47",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ vận chuyển hơn 9,6kg ma túy từ Đức về Việt Nam | Cái Quang Huy bị cáo buộc hai lần vận chuyển ma túy từ Đức về Việt Nam qua sân bay Nội Bài; Nguyễn Tiến Đạt bị cáo buộc nhận một kiện hàng chứa ma túy. Nguyễn Hữu Đức từng nhận kiện hàng nhưng cơ quan tố tụng hủy quyết định khởi tố bị can vì không đủ căn cứ xác định Đức biết trong hàng có ma túy.",
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:48",
+      "labels": [
+        "Location"
+      ],
+      "text": "Location: Hà Nội",
+      "source_doc_ids": [
+        "news-100260917203001265",
+        "news-100260918080821054"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:49",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: Ketamine",
+      "source_doc_ids": [
+        "news-100260917203001265",
+        "news-100260918080821054",
+        "news-100260920221957595",
+        "news-100260924105118645",
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:5",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 2 | 2. Chất gây nghiện là chất kích thích hoặc ức chế thần kinh, dễ gây tình trạng\nnghiện đối với người sử dụng.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:50",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Cái Quang Huy",
+      "source_doc_ids": [
+        "news-100260917203001265",
+        "news-100260918080821054"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:51",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Nguyễn Tiến Đạt",
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:52",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Nguyễn Hữu Đức",
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:53",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ góp 14 triệu đồng mua ma túy tại Hà Nội | Lê Minh Thành cùng Trịnh Vũ Kiên, Kim Xuân Tuấn và Nguyễn Quang Hưng góp tiền mua ma túy; Thành nhận ma túy rồi mang 5 viên MDMA đi bán thì bị bắt quả tang. Sơ thẩm tuyên Thành 36 tháng tù, ba người còn lại mỗi người 24 tháng tù; Kiên, Tuấn và Hưng kháng cáo kêu oan, phiên phúc thẩm bị hoãn.",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:54",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Lê Minh Thành",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:55",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Trịnh Vũ Kiên",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:56",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Kim Xuân Tuấn",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:57",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Nguyễn Quang Hưng",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:58",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ Cái Quang Huy vận chuyển ma túy qua sân bay Nội Bài | Cái Quang Huy bị cáo buộc hai lần vận chuyển ma túy về Việt Nam qua sân bay Nội Bài và đang bỏ trốn. Bài viết cho biết Huy phải chịu trách nhiệm hình sự về hơn 9,6 kg MDMA và gần 406 g Ketamine.",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ triệt phá 8 đường dây ma túy tại TP.HCM | Công an TP.HCM triệt phá 8 đường dây ma túy sau 10 ngày đêm truy xét, bắt và xử lý 126 người liên quan. Dương Minh Tuấn, biệt danh Hoàng Nato, bị bắt về hành vi tổ chức sử dụng trái phép chất ma túy cùng bạn gái Phan Kim Nhi.",
+      "source_doc_ids": [
+        "news-100260920221957595",
+        "news-100260925144412498"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:6",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 3 | 3. Chất hướng thần là chất kích thích hoặc ức chế thần kinh hoặc gây ảo giác,\nnếu sử dụng nhiều lần có thể dẫn tới tình trạng nghiện đối với người sử dụng.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:60",
+      "labels": [
+        "Location"
+      ],
+      "text": "Location: TP.HCM",
+      "source_doc_ids": [
+        "news-100260920221957595",
+        "news-100260922111804786",
+        "news-100260924095400982",
+        "news-100260925144412498",
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:61",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Dương Minh Tuấn | Hoàng Nato",
+      "source_doc_ids": [
+        "news-100260920221957595",
+        "news-100260922111804786",
+        "news-100260924095400982",
+        "news-100260925144412498"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:62",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Kim Yu Young",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:63",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Phạm Phương Anh",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:64",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Phạm Tài Vình",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:65",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Lê Đăng Khoa",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:66",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Giang Quốc Khánh",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:67",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Phạm Minh Sang",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:68",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Nguyễn Thành Quốc",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:69",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Nguyễn Hoàng Khả Ái",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:7",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 4 | 4. Tiền chất là hóa chất không thể thiếu được trong quá trình điều chế, sản xuất\nchất ma túy được quy định trong danh mục tiền chất do Chính phủ ban hành.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:70",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Chuyên án triệt phá 8 đường dây ma túy tại TP.HCM | Công an TP.HCM triệt phá 8 đường dây ma túy, bắt và xử lý tổng cộng 126 người liên quan đến các hành vi mua bán, tàng trữ và tổ chức sử dụng trái phép chất ma túy. Tang vật gồm hơn 1.000 đầu pod chill chứa etomidate và khoảng 100g ma túy tổng hợp các loại.",
+      "source_doc_ids": [
+        "news-100260922111804786"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:71",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Phan Kim Nhi | Phannhibeauty",
+      "source_doc_ids": [
+        "news-100260922111804786",
+        "news-100260924095400982",
+        "news-100260925144412498"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:72",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ Hoàng Nato và Phan Kim Nhi sử dụng pod chill chứa ma túy | Dương Minh Tuấn, tức “Hoàng Nato”, và Phan Kim Nhi khai đã cùng tổ chức sử dụng etomidate ngụy trang trong pod chill. Tuấn khai nhờ mua 5 ống vào ngày 7-9 và thêm 5 ống vào ngày 12-9 để cả hai sử dụng; cả hai sau đó bị công an phát hiện, bắt giữ.",
+      "source_doc_ids": [
+        "news-100260924095400982"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:73",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: etomidate",
+      "source_doc_ids": [
+        "news-100260924095400982",
+        "news-100260925144412498"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:74",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ bắt giữ giang hồ mạng Đức Cộng | Ngày 16-9, Phòng Cảnh sát điều tra tội phạm về ma túy Công an tỉnh Ninh Bình phối hợp bắt giữ Nguyễn Minh Đức, biệt danh “Đức Cộng”, về hành vi tổ chức sử dụng trái phép chất ma túy. Bài báo không nêu chất ma túy, khối lượng hoặc mức án.",
+      "source_doc_ids": [
+        "news-100260924101703641"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:75",
+      "labels": [
+        "Location"
+      ],
+      "text": "Location: Ninh Bình",
+      "source_doc_ids": [
+        "news-100260924101703641"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:76",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Nguyễn Minh Đức | Đức Cộng",
+      "source_doc_ids": [
+        "news-100260924101703641"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn | Ngày 28-9-2025, TAND TP Hà Nội mở phiên tòa xét xử 65 bị cáo trong vụ án liên quan Viện Pháp y tâm thần Trung ương. Vụ án có các cáo buộc liên quan đến việc mua bán, tổ chức sử dụng và tàng trữ ma túy, cùng việc bệnh nhân và nhân viên y tế sử dụng ma túy.",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:78",
+      "labels": [
+        "Location"
+      ],
+      "text": "Location: Hà Nội, Thanh Hóa",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:79",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Nguyễn Thị Mai Anh | bà trùm | Mai Anh",
+      "source_doc_ids": [
+        "news-100260924105118645",
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:8",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 5 | 5. Thuốc thú y có chứa chất ma túy, tiền chất là thuốc thú y có chứa các chất\nđược quy định tại các khoản 2, 3 và 4 của Điều này.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:80",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Lê Văn Đông",
+      "source_doc_ids": [
+        "news-100260924105118645",
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:81",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Bùi Thị Thanh Thủy",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:82",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Trần Quốc An",
+      "source_doc_ids": [
+        "news-100260924105118645",
+        "news-100260930085028036"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:83",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ bắt 7 người Trung Quốc cùng 840kg ma túy tại Preah Sihanouk | Giới chức Campuchia bắt 7 công dân Trung Quốc ngoài khơi tỉnh Preah Sihanouk, thu giữ khoảng 840kg chất tinh thể màu trắng nghi là ma túy đá cùng nhiều súng và đạn. Các nghi phạm và tang vật được bàn giao cho Công an tỉnh Preah Sihanouk để điều tra, xử lý.",
+      "source_doc_ids": [
+        "news-100260924145818945"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:84",
+      "labels": [
+        "Location"
+      ],
+      "text": "Location: Preah Sihanouk, Campuchia",
+      "source_doc_ids": [
+        "news-100260924145818945"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:85",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ triệt phá mạng lưới rửa tiền cho băng đảng Sinaloa | Lực lượng chức năng Campuchia và Mỹ triệt phá một mạng lưới rửa tiền cho băng đảng Sinaloa, thu giữ khoảng 7 triệu USD tiền mã hóa và hơn 200kg ma túy. Bài báo không nêu thêm thông tin về thời gian, địa điểm cụ thể hoặc người bị bắt.",
+      "source_doc_ids": [
+        "news-100260924145818945"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:86",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: ma túy tổng hợp",
+      "source_doc_ids": [
+        "news-100260925144412498"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:87",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ tài xế tông cảnh sát giao thông ở An Giang | Nguyễn Minh Nhân bị khởi tố và tạm giam sau khi không chấp hành hiệu lệnh dừng xe, bỏ chạy rồi tông Thiếu tá Trần Ngọc Nam. Công an cho biết Nhân không có giấy phép lái xe và đã sử dụng rượu, ma túy.",
+      "source_doc_ids": [
+        "news-100260926112415229"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:88",
+      "labels": [
+        "Location"
+      ],
+      "text": "Location: An Giang",
+      "source_doc_ids": [
+        "news-100260926112415229"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:89",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Nguyễn Minh Nhân",
+      "source_doc_ids": [
+        "news-100260926112415229"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:9",
+      "labels": [
+        "Clause"
+      ],
+      "text": "Clause: Điều 2 Luật PCMT khoản 6 | 6. Cây có chứa chất ma túy là cây thuốc phiện, cây côca, cây cần sa và các loại\ncây khác có chứa chất ma túy do Chính phủ quy định.",
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:90",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Trần Ngọc Nam",
+      "source_doc_ids": [
+        "news-100260926112415229"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:91",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ phát hiện bao tải nghi chứa 20kg ma túy tại Phú Quốc | Ngày 27-9, Đồn biên phòng Gành Dầu phát hiện bao tải chứa 20 gói ni lông có tinh thể trắng, nghi là ma túy, tổng trọng lượng khoảng 20kg. Lực lượng biên phòng tiếp tục xác minh vụ việc.",
+      "source_doc_ids": [
+        "news-100260927182621527"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:92",
+      "labels": [
+        "Location"
+      ],
+      "text": "Location: Phú Quốc, An Giang",
+      "source_doc_ids": [
+        "news-100260927182621527"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:93",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: chất ma túy (nghi)",
+      "source_doc_ids": [
+        "news-100260927182621527"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:94",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ phát hiện kiện hàng nghi chứa 20kg ma túy tại Gành Dầu | Khoảng 8h40 ngày 25-9, một kiện hàng trôi dạt vào bờ biển khu phố Gành Dầu được kiểm tra, phát hiện 20 gói hàng hình dạng gói trà nghi là ma túy, tổng trọng lượng khoảng 20kg. Tang vật được bàn giao cho Công an tỉnh An Giang điều tra, xử lý.",
+      "source_doc_ids": [
+        "news-100260927182621527"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+      "labels": [
+        "Case"
+      ],
+      "text": "Case: Vụ mua bán hơn 36kg ma túy tại TP.HCM | Trần Thanh Tuấn và Trần Minh Tâm bị xác định chịu trách nhiệm hình sự về việc mua bán hơn 36kg ma túy các loại. Tòa tuyên tử hình hai bị cáo này; bốn bị cáo còn lại nhận án tù từ 2 năm 6 tháng đến 8 năm 6 tháng.",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:96",
+      "labels": [
+        "Substance"
+      ],
+      "text": "Substance: ma túy các loại",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:97",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Trần Thanh Tuấn",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:98",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Trần Minh Tâm",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    },
+    {
+      "node_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:99",
+      "labels": [
+        "Person"
+      ],
+      "text": "Person: Đỗ Thị Ngọc Yến",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ],
+      "dimensions": 3072
+    }
+  ],
+  "usage": {
+    "calls": 13,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "usd": 0.0,
+    "seconds": 165.09659080000006,
+    "unpriced_calls": 13,
+    "missing_usage_calls": 13
+  }
+}

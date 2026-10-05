@@ -1,0 +1,147 @@
+Node index: 203 nodes, 13 batched requests, 165.10s
+[audit] chat 15 saved
+[audit] chat 16 saved
+M01 flat      recall=0.75 judge=1 8.69s
+[audit] chat 19 saved
+[audit] chat 20 saved
+M01 graph_bfs recall=1.00 judge=2 11.36s
+[audit] chat 22 saved
+[audit] chat 23 saved
+M02 flat      recall=0.75 judge=1 10.86s
+[audit] chat 26 saved
+[audit] chat 27 saved
+M02 graph_bfs recall=1.00 judge=2 11.29s
+[audit] chat 29 saved
+[audit] chat 30 saved
+M03 flat      recall=0.75 judge=1 10.55s
+[audit] chat 33 saved
+[audit] chat 34 saved
+M03 graph_bfs recall=1.00 judge=2 12.42s
+[audit] chat 36 saved
+[audit] chat 37 saved
+M04 flat      recall=0.75 judge=1 14.83s
+[audit] chat 40 saved
+[audit] chat 41 saved
+M04 graph_bfs recall=1.00 judge=2 11.72s
+[audit] chat 43 saved
+[audit] chat 44 saved
+M05 flat      recall=0.75 judge=1 8.43s
+[audit] chat 47 saved
+[audit] chat 48 saved
+M05 graph_bfs recall=1.00 judge=2 13.02s
+[audit] chat 50 saved
+[audit] chat 51 saved
+M06 flat      recall=0.50 judge=1 8.25s
+[audit] chat 54 saved
+[audit] chat 55 saved
+M06 graph_bfs recall=1.00 judge=2 10.46s
+[audit] chat 57 saved
+[audit] chat 58 saved
+M07 flat      recall=0.67 judge=1 10.66s
+[audit] chat 61 saved
+[audit] chat 62 saved
+M07 graph_bfs recall=1.00 judge=2 10.82s
+[audit] chat 64 saved
+[audit] chat 65 saved
+M08 flat      recall=0.50 judge=1 12.11s
+[audit] chat 68 saved
+[audit] chat 69 saved
+M08 graph_bfs recall=1.00 judge=2 15.14s
+[audit] chat 71 saved
+[audit] chat 72 saved
+M09 flat      recall=0.25 judge=1 13.74s
+[audit] chat 75 saved
+[audit] chat 76 saved
+M09 graph_bfs recall=1.00 judge=2 12.76s
+[audit] chat 78 saved
+[audit] chat 79 saved
+M10 flat      recall=0.33 judge=1 15.54s
+[audit] chat 82 saved
+[audit] chat 83 saved
+M10 graph_bfs recall=1.00 judge=2 10.56s
+[audit] chat 85 saved
+[audit] chat 86 saved
+M11 flat      recall=0.60 judge=1 9.11s
+[audit] chat 89 saved
+[audit] chat 90 saved
+M11 graph_bfs recall=1.00 judge=2 12.47s
+[audit] chat 92 saved
+[audit] chat 93 saved
+M12 flat      recall=1.00 judge=2 9.08s
+[audit] chat 96 saved
+[audit] chat 97 saved
+M12 graph_bfs recall=1.00 judge=2 12.93s
+[audit] chat 99 saved
+[audit] chat 100 saved
+M13 flat      recall=0.25 judge=1 13.26s
+[audit] chat 103 saved
+[audit] chat 104 saved
+M13 graph_bfs recall=1.00 judge=2 16.06s
+[audit] chat 106 saved
+[audit] chat 107 saved
+M14 flat      recall=0.75 judge=1 9.35s
+[audit] chat 110 saved
+[audit] chat 111 saved
+M14 graph_bfs recall=1.00 judge=2 12.84s
+[audit] chat 113 saved
+[audit] chat 114 saved
+M15 flat      recall=1.00 judge=2 16.96s
+[audit] chat 117 saved
+[audit] chat 118 saved
+M15 graph_bfs recall=0.75 judge=2 12.60s
+[audit] chat 120 saved
+[audit] chat 121 saved
+M16 flat      recall=0.40 judge=1 13.37s
+[audit] chat 124 saved
+[audit] chat 125 saved
+M16 graph_bfs recall=1.00 judge=2 13.56s
+[audit] chat 127 saved
+[audit] chat 128 saved
+M17 flat      recall=0.43 judge=1 12.77s
+[audit] chat 131 saved
+[audit] chat 132 saved
+M17 graph_bfs recall=1.00 judge=2 19.24s
+[audit] chat 134 saved
+[audit] chat 135 saved
+M18 flat      recall=1.00 judge=2 9.17s
+[audit] chat 138 saved
+[audit] chat 139 saved
+M18 graph_bfs recall=1.00 judge=2 11.44s
+[audit] chat 141 saved
+[audit] chat 142 saved
+M19 flat      recall=0.80 judge=2 9.05s
+[audit] chat 145 saved
+[audit] chat 146 saved
+M19 graph_bfs recall=0.80 judge=2 14.58s
+[audit] chat 148 saved
+[audit] chat 149 saved
+M20 flat      recall=0.75 judge=1 8.23s
+[audit] chat 152 saved
+[audit] chat 153 saved
+M20 graph_bfs recall=1.00 judge=2 13.16s
+{
+  "flat": {
+    "n": 20,
+    "keyword_recall": 0.6489285714285714,
+    "criterion_recall": 0.615,
+    "accuracy_judge_full": 0.2,
+    "mean_judge": 1.2,
+    "mean_seconds": 11.20029578,
+    "p95_seconds": 15.540207399999872,
+    "priced_usd_subtotal": 0.0029814999999999993,
+    "unpriced_calls": 20,
+    "missing_usage_calls": 20
+  },
+  "graph_bfs": {
+    "n": 20,
+    "keyword_recall": 0.9775,
+    "criterion_recall": 0.9666666666666667,
+    "accuracy_judge_full": 1,
+    "mean_judge": 2,
+    "mean_seconds": 12.922750190000034,
+    "p95_seconds": 16.064276900000095,
+    "priced_usd_subtotal": 0.016494800000000004,
+    "unpriced_calls": 40,
+    "missing_usage_calls": 40
+  }
+}

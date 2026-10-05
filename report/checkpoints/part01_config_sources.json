@@ -1,0 +1,47 @@
+{
+  "OPENAI_API_KEY": {
+    "dotenv": "set",
+    "inherited": "set",
+    "same_value": false
+  },
+  "OPENAI_BASE_URL": {
+    "dotenv": "missing",
+    "inherited": "set",
+    "same_value": null,
+    "dotenv_endpoint": "official",
+    "inherited_endpoint": "custom"
+  },
+  "ANTHROPIC_API_KEY": {
+    "dotenv": "missing",
+    "inherited": "set",
+    "same_value": null
+  },
+  "OPENAI_CHAT_MODEL": {
+    "dotenv": "set",
+    "inherited": "missing",
+    "same_value": null,
+    "dotenv_choice": "gpt-6-luna",
+    "inherited_choice": "default"
+  },
+  "OPENAI_EMBEDDING_MODEL": {
+    "dotenv": "set",
+    "inherited": "missing",
+    "same_value": null,
+    "dotenv_choice": "text-embedding-3-small",
+    "inherited_choice": "default"
+  },
+  "LLM_PROVIDER": {
+    "dotenv": "set",
+    "inherited": "missing",
+    "same_value": null,
+    "dotenv_choice": "openai",
+    "inherited_choice": "default"
+  },
+  "EMBEDDING_PROVIDER": {
+    "dotenv": "set",
+    "inherited": "missing",
+    "same_value": null,
+    "dotenv_choice": "openai",
+    "inherited_choice": "default"
+  }
+}

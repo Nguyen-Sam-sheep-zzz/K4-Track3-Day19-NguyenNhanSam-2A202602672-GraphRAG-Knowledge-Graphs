@@ -1,0 +1,50 @@
+Chat model: openai:gpt-6-luna | Embedding: gemini:gemini-embedding-001 | top_k=3 | chunk_size=800 | chunks=176 | KG: 196 nodes / 365 rels
+
+== Indexing (one-off)
+pipeline  calls    in_tok  out_tok       USD  seconds
+flat        176         0        0   0.00000    108.1
+graph       196     35866     8556   0.00786    732.6
+
+== Querying (mean per question)
+pipeline  recall  judge   in_tok  out_tok       USD  seconds
+flat        0.51   1.33      729      124   0.00013    39.87
+graph       0.83   1.83     6105      100   0.00066    30.91
+
+== Per question
+--- Q1 [single-hop-law] flat recall=1.00 judge=2 51.06s
+Theo Luật Phòng, chống ma túy 2021, **tiền chất là hóa chất không thể thiếu trong quá trình điều chế, sản xuất chất ma túy và được quy định trong danh mục tiền chất do Chính phủ ban hành**.
+--- Q1 [single-hop-law] graph recall=1.00 judge=2 59.19s
+Theo khoản 4 Điều 2 Luật Phòng, chống ma túy 2021, **tiền chất** là hóa chất không thể thiếu trong quá trình điều chế, sản xuất chất ma túy và được quy định trong danh mục tiền chất do Chính phủ ban hành.
+--- Q2 [single-hop-news] flat recall=1.00 judge=2 69.44s
+Trần Thanh Tuấn và Trần Minh Tâm lãnh án tử hình.
+--- Q2 [single-hop-news] graph recall=1.00 judge=2 67.93s
+Trần Thanh Tuấn và Trần Minh Tâm lãnh án tử hình về tội mua bán trái phép chất ma túy.
+--- Q3 [cross-kb] flat recall=0.33 judge=1 65.24s
+Lê Minh Thành bị tuyên phạt 36 tháng tù về tội mua bán trái phép chất ma túy. Ngữ cảnh không nêu điều luật áp dụng hoặc khung hình phạt cơ bản nên không đủ thông tin để xác định.
+--- Q3 [cross-kb] graph recall=0.67 judge=2 13.53s
+Lê Minh Thành bị tuyên **36 tháng tù** về tội **mua bán trái phép chất ma túy**, quy định tại **Điều 251 BLHS**. Khung hình phạt cơ bản theo khoản 1 Điều 251 là **từ 2 đến 7 năm tù**.
+--- Q4 [cross-kb] flat recall=0.33 judge=1 20.32s
+“Hoàng Nato” bị bắt để điều tra về hành vi **tổ chức sử dụng trái phép chất ma túy**. Ngữ cảnh không nêu mức hình phạt tối đa theo Bộ luật Hình sự nên không đủ thông tin để xác định.
+--- Q4 [cross-kb] graph recall=0.67 judge=1 11.00s
+“Hoàng Nato” bị bắt để điều tra về hành vi **tổ chức sử dụng trái phép chất ma túy**. Theo **khoản 1 Điều 255 Bộ luật Hình sự**, hành vi này bị phạt tù từ 2 đến 7 năm; do đó mức tối đa theo khoản này là **7 năm tù**. Ngữ cảnh không nêu tình tiết định khung tăng nặng để xác định mức phạt cao hơn.
+--- Q5 [cross-kb-multi-hop] flat recall=0.40 judge=1 18.60s
+Cái Quang Huy bị truy tố về tội **vận chuyển trái phép chất ma túy**, liên quan đến **MDMA và Ketamine**. Huy phải chịu trách nhiệm về hơn **9,6 kg MDMA** và gần **406 g Ketamine**.
+
+Ngữ cảnh không nêu khoản điều luật được áp dụng cho khối lượng MDMA hay khung hình phạt tương ứng, nên không đủ thông tin để xác định.
+--- Q5 [cross-kb-multi-hop] graph recall=1.00 judge=2 14.73s
+Cái Quang Huy bị truy tố về **tội vận chuyển trái phép chất ma túy** theo **Điều 250 BLHS**. Các chất được nêu là **MDMA** và **Ketamine**.
+
+Riêng hơn **9,6 kg MDMA** vượt ngưỡng **100 g** quy định tại **điểm b khoản 4 Điều 250 BLHS**. Khung hình phạt là **20 năm tù, tù chung thân hoặc tử hình**.
+--- Q6 [aggregation] flat recall=0.00 judge=1 14.54s
+Có 3 vụ việc liên quan đến MDMA:
+
+- Kiện hàng có các viên nén màu xanh, giám định xác định là MDMA, tổng khối lượng gần 4,3 kg.
+- Thành bị bắt quả tang khi mang 5 viên MDMA đi bán; Thành thừa nhận đã mua số ma túy này.
+- Kiện hàng có viên nén hình tam giác màu hồng – xám, giám định xác định là MDMA, tổng khối lượng hơn 5,3 kg; trong kiện hàng còn có hơn 405 g Ketamine.
+--- Q6 [aggregation] graph recall=0.67 judge=2 19.11s
+Các vụ việc có liên quan đến ma túy MDMA gồm:
+
+- **Vụ vận chuyển ma túy từ Đức về Việt Nam qua sân bay Nội Bài**: Cái Quang Huy bị cáo buộc vận chuyển hơn 9,6 kg MDMA; Nguyễn Tiến Đạt liên quan đến kiện hàng chứa gần 4,3 kg MDMA. Đoạn văn bản cũng nêu kiện hàng của Huy có hơn 5,3 kg MDMA.
+- **Vụ góp tiền mua ma túy tại Hà Nội**: Thành mang 5 viên MDMA đi bán và bị bắt quả tang. Knowledge graph cho biết vụ việc còn liên quan đến việc góp tiền mua ma túy.
+- **Vụ tiệc ma túy tại Sầm Sơn và sai phạm ở Viện Pháp y tâm thần Trung ương**: Có MDMA, nhưng ngữ cảnh không nêu khối lượng.
+- **Vụ triệt phá 8 đường dây ma túy tại TP.HCM**: Có MDMA, nhưng ngữ cảnh không nêu khối lượng.

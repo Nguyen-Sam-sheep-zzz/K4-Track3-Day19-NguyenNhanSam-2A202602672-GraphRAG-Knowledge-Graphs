@@ -1,0 +1,5827 @@
+[
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:264",
+    "subject": "Điều 258 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:266",
+    "object": "Điều 258 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-258"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:264",
+    "subject": "Điều 258 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:267",
+    "object": "Điều 258 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-258"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:5",
+    "object": "Điều 2 Luật PCMT khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "subject": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:78",
+    "object": "Hà Nội, Thanh Hóa",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "subject": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:219",
+    "object": "mua bán trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "subject": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:205",
+    "object": "tàng trữ trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "subject": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:246",
+    "object": "tổ chức sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "subject": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "amount": "",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "subject": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:49",
+    "object": "Ketamine",
+    "properties": {
+      "amount": "",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "subject": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "amount": "",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "subject": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "amount": "",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:79",
+    "subject": "Nguyễn Thị Mai Anh",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "object": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "properties": {
+      "sentence": "",
+      "role": "bị cáo",
+      "charge": "",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:80",
+    "subject": "Lê Văn Đông",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "object": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "properties": {
+      "sentence": "",
+      "role": "bị cáo",
+      "charge": "tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:6",
+    "object": "Điều 2 Luật PCMT khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:81",
+    "subject": "Bùi Thị Thanh Thủy",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "object": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "properties": {
+      "sentence": "",
+      "role": "bị can",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:82",
+    "subject": "Trần Quốc An",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:77",
+    "object": "Vụ sai phạm tại Viện Pháp y tâm thần Trung ương và tiệc ma túy ở Sầm Sơn",
+    "properties": {
+      "sentence": "",
+      "role": "bị cáo",
+      "charge": "tàng trữ trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260924105118645"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924105118645"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:83",
+    "subject": "Vụ bắt 7 người Trung Quốc cùng 840kg ma túy tại Preah Sihanouk",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:84",
+    "object": "Preah Sihanouk, Campuchia",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260924145818945"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924145818945"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:83",
+    "subject": "Vụ bắt 7 người Trung Quốc cùng 840kg ma túy tại Preah Sihanouk",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "amount": "khoảng 840kg",
+      "source_doc_ids": [
+        "news-100260924145818945"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924145818945"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "subject": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:205",
+    "object": "tàng trữ trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260925144412498"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260925144412498"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "subject": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:73",
+    "object": "etomidate",
+    "properties": {
+      "amount": "hơn 1.000 đầu pod chill chứa etomidate",
+      "source_doc_ids": [
+        "news-100260925144412498"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260925144412498"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "subject": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:86",
+    "object": "ma túy tổng hợp",
+    "properties": {
+      "amount": "lượng lớn",
+      "source_doc_ids": [
+        "news-100260925144412498"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260925144412498"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:71",
+    "subject": "Phan Kim Nhi",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "",
+      "source_doc_ids": [
+        "news-100260925144412498"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260925144412498"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:87",
+    "subject": "Vụ tài xế tông cảnh sát giao thông ở An Giang",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:88",
+    "object": "An Giang",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260926112415229"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260926112415229"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:89",
+    "subject": "Nguyễn Minh Nhân",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:87",
+    "object": "Vụ tài xế tông cảnh sát giao thông ở An Giang",
+    "properties": {
+      "sentence": "",
+      "role": "bị can",
+      "charge": "",
+      "source_doc_ids": [
+        "news-100260926112415229"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260926112415229"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:7",
+    "object": "Điều 2 Luật PCMT khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:90",
+    "subject": "Trần Ngọc Nam",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:87",
+    "object": "Vụ tài xế tông cảnh sát giao thông ở An Giang",
+    "properties": {
+      "sentence": "",
+      "role": "cán bộ",
+      "charge": "",
+      "source_doc_ids": [
+        "news-100260926112415229"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260926112415229"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:91",
+    "subject": "Vụ phát hiện bao tải nghi chứa 20kg ma túy tại Phú Quốc",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:92",
+    "object": "Phú Quốc, An Giang",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260927182621527"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260927182621527"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:91",
+    "subject": "Vụ phát hiện bao tải nghi chứa 20kg ma túy tại Phú Quốc",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:93",
+    "object": "chất ma túy (nghi)",
+    "properties": {
+      "amount": "khoảng 20kg",
+      "source_doc_ids": [
+        "news-100260927182621527"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260927182621527"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:94",
+    "subject": "Vụ phát hiện kiện hàng nghi chứa 20kg ma túy tại Gành Dầu",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:92",
+    "object": "Phú Quốc, An Giang",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260927182621527"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260927182621527"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:94",
+    "subject": "Vụ phát hiện kiện hàng nghi chứa 20kg ma túy tại Gành Dầu",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:93",
+    "object": "chất ma túy (nghi)",
+    "properties": {
+      "amount": "khoảng 20kg",
+      "source_doc_ids": [
+        "news-100260927182621527"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260927182621527"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "subject": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:60",
+    "object": "TP.HCM",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "subject": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:219",
+    "object": "mua bán trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "subject": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:246",
+    "object": "tổ chức sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "subject": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:96",
+    "object": "ma túy các loại",
+    "properties": {
+      "amount": "hơn 36kg",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:97",
+    "subject": "Trần Thanh Tuấn",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "object": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "tử hình",
+      "role": "bị cáo",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:8",
+    "object": "Điều 2 Luật PCMT khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:98",
+    "subject": "Trần Minh Tâm",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "object": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "tử hình",
+      "role": "bị cáo",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:99",
+    "subject": "Đỗ Thị Ngọc Yến",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "object": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "8 năm 6 tháng tù",
+      "role": "bị cáo",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:100",
+    "subject": "Võ Nữ Minh Thư",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "object": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "8 năm tù",
+      "role": "bị cáo",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:101",
+    "subject": "Đinh Đức Tuấn",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "object": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "2 năm 6 tháng tù",
+      "role": "bị cáo",
+      "charge": "tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:102",
+    "subject": "Trần Ngọc Thảo",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "object": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "2 năm 6 tháng tù",
+      "role": "bị cáo",
+      "charge": "tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:103",
+    "subject": "Anh Hai",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:95",
+    "object": "Vụ mua bán hơn 36kg ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "charge": "",
+      "role": "người liên quan",
+      "source_doc_ids": [
+        "news-100260928173914514"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260928173914514"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "subject": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:105",
+    "object": "Thanh Hóa",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "subject": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:205",
+    "object": "tàng trữ trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "subject": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:246",
+    "object": "tổ chức sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "subject": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "amount": "0,686g",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:9",
+    "object": "Điều 2 Luật PCMT khoản 6",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "subject": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "amount": "không nêu; phát hiện dính trên dụng cụ",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "subject": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "amount": "không nêu",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "subject": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:49",
+    "object": "Ketamine",
+    "properties": {
+      "amount": "không nêu",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "subject": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:106",
+    "object": "nước vui",
+    "properties": {
+      "amount": "không nêu",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:80",
+    "subject": "Lê Văn Đông",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "object": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "properties": {
+      "sentence": "",
+      "role": "bị cáo",
+      "charge": "tàng trữ trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:79",
+    "subject": "Nguyễn Thị Mai Anh",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "object": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "properties": {
+      "sentence": "",
+      "role": "bị cáo",
+      "charge": "",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:107",
+    "subject": "Ngô Việt Dũng",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "object": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "properties": {
+      "sentence": "",
+      "role": "bị cáo",
+      "charge": "",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:82",
+    "subject": "Trần Quốc An",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "object": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "properties": {
+      "sentence": "",
+      "charge": "",
+      "role": "người liên quan",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:108",
+    "subject": "Cao Thị Bích Hằng",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:104",
+    "object": "Vụ tổ chức sử dụng ma túy tại bãi biển Sầm Sơn",
+    "properties": {
+      "sentence": "",
+      "charge": "",
+      "role": "người liên quan",
+      "source_doc_ids": [
+        "news-100260930085028036"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260930085028036"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:109",
+    "subject": "Chuyên án A3-626P bắt giữ 2 đối tượng, thu 40kg ma túy",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:110",
+    "object": "ma túy",
+    "properties": {
+      "amount": "40kg",
+      "source_doc_ids": [
+        "news-100261002184934505"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100261002184934505"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:9",
+    "subject": "Điều 2 Luật PCMT khoản 6",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:9",
+    "subject": "Điều 2 Luật PCMT khoản 6",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:9",
+    "subject": "Điều 2 Luật PCMT khoản 6",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:10",
+    "object": "Điều 2 Luật PCMT khoản 7",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:11",
+    "object": "Điều 2 Luật PCMT khoản 8",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:264",
+    "subject": "Điều 258 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:268",
+    "object": "Điều 258 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-258"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:12",
+    "object": "Điều 2 Luật PCMT khoản 9",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:13",
+    "object": "Điều 2 Luật PCMT khoản 10",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:14",
+    "object": "Điều 2 Luật PCMT khoản 11",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:15",
+    "object": "Điều 2 Luật PCMT khoản 12",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:16",
+    "object": "Điều 2 Luật PCMT khoản 13",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:17",
+    "object": "Điều 2 Luật PCMT khoản 14",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:19",
+    "object": "Điều 3 Luật PCMT khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:20",
+    "object": "Điều 3 Luật PCMT khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:21",
+    "object": "Điều 3 Luật PCMT khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:22",
+    "object": "Điều 3 Luật PCMT khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:264",
+    "subject": "Điều 258 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:269",
+    "object": "Điều 258 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-258"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:23",
+    "object": "Điều 3 Luật PCMT khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:24",
+    "object": "Điều 3 Luật PCMT khoản 6",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:24",
+    "subject": "Điều 3 Luật PCMT khoản 6",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:182",
+    "subject": "Điều 247 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:183",
+    "object": "trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-247"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:182",
+    "subject": "Điều 247 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:184",
+    "object": "Điều 247 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-247"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:184",
+    "subject": "Điều 247 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-247"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:184",
+    "subject": "Điều 247 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-247"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:184",
+    "subject": "Điều 247 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-247"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:182",
+    "subject": "Điều 247 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:188",
+    "object": "Điều 247 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-247"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:182",
+    "subject": "Điều 247 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:189",
+    "object": "Điều 247 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-247"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:182",
+    "subject": "Điều 247 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:190",
+    "object": "Điều 247 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-247"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-247"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:191",
+    "subject": "Điều 248 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:192",
+    "object": "sản xuất trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:25",
+    "object": "Điều 3 Luật PCMT khoản 7",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:191",
+    "subject": "Điều 248 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:193",
+    "object": "Điều 248 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:191",
+    "subject": "Điều 248 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "object": "Điều 248 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "subject": "Điều 248 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "subject": "Điều 248 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "subject": "Điều 248 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "subject": "Điều 248 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "subject": "Điều 248 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "subject": "Điều 248 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "subject": "Điều 248 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "subject": "Điều 248 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:26",
+    "object": "Điều 3 Luật PCMT khoản 8",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:194",
+    "subject": "Điều 248 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:191",
+    "subject": "Điều 248 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "object": "Điều 248 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "subject": "Điều 248 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "subject": "Điều 248 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "subject": "Điều 248 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "subject": "Điều 248 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "subject": "Điều 248 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "subject": "Điều 248 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "subject": "Điều 248 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "subject": "Điều 248 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:27",
+    "object": "Điều 3 Luật PCMT khoản 9",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:201",
+    "subject": "Điều 248 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:191",
+    "subject": "Điều 248 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "object": "Điều 248 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "subject": "Điều 248 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "subject": "Điều 248 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "subject": "Điều 248 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "subject": "Điều 248 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "subject": "Điều 248 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "subject": "Điều 248 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "subject": "Điều 248 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "subject": "Điều 248 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:18",
+    "subject": "Điều 3 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:28",
+    "object": "Điều 3 Luật PCMT khoản 10",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-3"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-3"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:202",
+    "subject": "Điều 248 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:191",
+    "subject": "Điều 248 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:203",
+    "object": "Điều 248 BLHS khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-248"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-248"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:204",
+    "subject": "Điều 249 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:205",
+    "object": "tàng trữ trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:204",
+    "subject": "Điều 249 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "object": "Điều 249 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "subject": "Điều 249 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "subject": "Điều 249 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "subject": "Điều 249 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "subject": "Điều 249 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "subject": "Điều 249 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "subject": "Điều 249 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:29",
+    "subject": "Điều 4 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:30",
+    "object": "Điều 4 Luật PCMT khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-4"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-4"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "subject": "Điều 249 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "subject": "Điều 249 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:206",
+    "subject": "Điều 249 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:204",
+    "subject": "Điều 249 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "object": "Điều 249 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "subject": "Điều 249 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "subject": "Điều 249 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "subject": "Điều 249 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "subject": "Điều 249 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "subject": "Điều 249 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "subject": "Điều 249 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:29",
+    "subject": "Điều 4 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:31",
+    "object": "Điều 4 Luật PCMT khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-4"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-4"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "subject": "Điều 249 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "subject": "Điều 249 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:207",
+    "subject": "Điều 249 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:204",
+    "subject": "Điều 249 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "object": "Điều 249 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "subject": "Điều 249 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "subject": "Điều 249 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "subject": "Điều 249 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "subject": "Điều 249 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "subject": "Điều 249 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "subject": "Điều 249 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:29",
+    "subject": "Điều 4 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:32",
+    "object": "Điều 4 Luật PCMT khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-4"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-4"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "subject": "Điều 249 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "subject": "Điều 249 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:208",
+    "subject": "Điều 249 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:204",
+    "subject": "Điều 249 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "object": "Điều 249 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "subject": "Điều 249 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "subject": "Điều 249 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "subject": "Điều 249 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "subject": "Điều 249 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "subject": "Điều 249 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "subject": "Điều 249 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:264",
+    "subject": "Điều 258 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:270",
+    "object": "Điều 258 BLHS khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-258"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:29",
+    "subject": "Điều 4 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:33",
+    "object": "Điều 4 Luật PCMT khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-4"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-4"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "subject": "Điều 249 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "subject": "Điều 249 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:209",
+    "subject": "Điều 249 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:204",
+    "subject": "Điều 249 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:210",
+    "object": "Điều 249 BLHS khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-249"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-249"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:211",
+    "subject": "Điều 250 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:212",
+    "object": "vận chuyển trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:211",
+    "subject": "Điều 250 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "object": "Điều 250 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "subject": "Điều 250 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "subject": "Điều 250 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "subject": "Điều 250 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "subject": "Điều 250 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:35",
+    "object": "Điều 5 Luật PCMT khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "subject": "Điều 250 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "subject": "Điều 250 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "subject": "Điều 250 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "subject": "Điều 250 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:213",
+    "subject": "Điều 250 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:211",
+    "subject": "Điều 250 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "object": "Điều 250 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "subject": "Điều 250 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "subject": "Điều 250 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "subject": "Điều 250 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "subject": "Điều 250 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:36",
+    "object": "Điều 5 Luật PCMT khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "subject": "Điều 250 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "subject": "Điều 250 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "subject": "Điều 250 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "subject": "Điều 250 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:214",
+    "subject": "Điều 250 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:211",
+    "subject": "Điều 250 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "object": "Điều 250 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "subject": "Điều 250 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "subject": "Điều 250 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "subject": "Điều 250 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "subject": "Điều 250 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:37",
+    "object": "Điều 5 Luật PCMT khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "subject": "Điều 250 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "subject": "Điều 250 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "subject": "Điều 250 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "subject": "Điều 250 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:215",
+    "subject": "Điều 250 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:211",
+    "subject": "Điều 250 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "object": "Điều 250 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "subject": "Điều 250 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "subject": "Điều 250 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "subject": "Điều 250 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "subject": "Điều 250 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:38",
+    "object": "Điều 5 Luật PCMT khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "subject": "Điều 250 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "subject": "Điều 250 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "subject": "Điều 250 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "subject": "Điều 250 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:216",
+    "subject": "Điều 250 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:211",
+    "subject": "Điều 250 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:217",
+    "object": "Điều 250 BLHS khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-250"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-250"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:218",
+    "subject": "Điều 251 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:219",
+    "object": "mua bán trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:218",
+    "subject": "Điều 251 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:220",
+    "object": "Điều 251 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:218",
+    "subject": "Điều 251 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "object": "Điều 251 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "subject": "Điều 251 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:39",
+    "object": "Điều 5 Luật PCMT khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "subject": "Điều 251 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "subject": "Điều 251 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "subject": "Điều 251 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "subject": "Điều 251 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "subject": "Điều 251 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "subject": "Điều 251 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "subject": "Điều 251 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:221",
+    "subject": "Điều 251 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:218",
+    "subject": "Điều 251 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "object": "Điều 251 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "subject": "Điều 251 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:40",
+    "object": "Điều 5 Luật PCMT khoản 6",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "subject": "Điều 251 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "subject": "Điều 251 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "subject": "Điều 251 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "subject": "Điều 251 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "subject": "Điều 251 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "subject": "Điều 251 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "subject": "Điều 251 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:222",
+    "subject": "Điều 251 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:218",
+    "subject": "Điều 251 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "object": "Điều 251 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "subject": "Điều 251 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:41",
+    "object": "Điều 5 Luật PCMT khoản 7",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "subject": "Điều 251 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "subject": "Điều 251 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "subject": "Điều 251 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "subject": "Điều 251 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "subject": "Điều 251 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "subject": "Điều 251 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "subject": "Điều 251 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:223",
+    "subject": "Điều 251 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:218",
+    "subject": "Điều 251 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:224",
+    "object": "Điều 251 BLHS khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-251"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-251"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:225",
+    "subject": "Điều 252 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:226",
+    "object": "chiếm đoạt chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:42",
+    "object": "Điều 5 Luật PCMT khoản 8",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:225",
+    "subject": "Điều 252 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "object": "Điều 252 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "subject": "Điều 252 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "subject": "Điều 252 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "subject": "Điều 252 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "subject": "Điều 252 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "subject": "Điều 252 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "subject": "Điều 252 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "subject": "Điều 252 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "subject": "Điều 252 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:227",
+    "subject": "Điều 252 BLHS khoản 1",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:43",
+    "object": "Điều 5 Luật PCMT khoản 9",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:225",
+    "subject": "Điều 252 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "object": "Điều 252 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "subject": "Điều 252 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "subject": "Điều 252 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "subject": "Điều 252 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "subject": "Điều 252 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "subject": "Điều 252 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "subject": "Điều 252 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "subject": "Điều 252 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "subject": "Điều 252 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:228",
+    "subject": "Điều 252 BLHS khoản 2",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:271",
+    "subject": "Điều 259 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:272",
+    "object": "vi phạm quy định về quản lý chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-259"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-259"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:44",
+    "object": "Điều 5 Luật PCMT khoản 10",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:225",
+    "subject": "Điều 252 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "object": "Điều 252 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "subject": "Điều 252 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "subject": "Điều 252 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "subject": "Điều 252 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "subject": "Điều 252 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "subject": "Điều 252 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "subject": "Điều 252 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "subject": "Điều 252 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "subject": "Điều 252 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:229",
+    "subject": "Điều 252 BLHS khoản 3",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:45",
+    "object": "Điều 5 Luật PCMT khoản 11",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:225",
+    "subject": "Điều 252 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "object": "Điều 252 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "subject": "Điều 252 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:195",
+    "object": "Heroine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "subject": "Điều 252 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:196",
+    "object": "Cocaine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "subject": "Điều 252 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:197",
+    "object": "Methamphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "subject": "Điều 252 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:198",
+    "object": "Amphetamine",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "subject": "Điều 252 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "subject": "Điều 252 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:200",
+    "object": "XLR-11",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "subject": "Điều 252 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:185",
+    "object": "cần sa",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "subject": "Điều 252 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:186",
+    "object": "thuốc phiện",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:230",
+    "subject": "Điều 252 BLHS khoản 4",
+    "predicate": "MENTIONS",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:187",
+    "object": "côca",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:34",
+    "subject": "Điều 5 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:46",
+    "object": "Điều 5 Luật PCMT khoản 12",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-5"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-5"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:225",
+    "subject": "Điều 252 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:231",
+    "object": "Điều 252 BLHS khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-252"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-252"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:232",
+    "subject": "Điều 253 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:233",
+    "object": "tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-253"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:232",
+    "subject": "Điều 253 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:234",
+    "object": "Điều 253 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-253"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:232",
+    "subject": "Điều 253 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:235",
+    "object": "Điều 253 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-253"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:232",
+    "subject": "Điều 253 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:236",
+    "object": "Điều 253 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-253"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:232",
+    "subject": "Điều 253 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:237",
+    "object": "Điều 253 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-253"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:232",
+    "subject": "Điều 253 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:238",
+    "object": "Điều 253 BLHS khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-253"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:232",
+    "subject": "Điều 253 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:239",
+    "object": "Điều 253 BLHS khoản 6",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-253"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-253"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:240",
+    "subject": "Điều 254 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:241",
+    "object": "sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-254"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-254"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:240",
+    "subject": "Điều 254 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:242",
+    "object": "Điều 254 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-254"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-254"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:47",
+    "subject": "Vụ vận chuyển hơn 9,6kg ma túy từ Đức về Việt Nam",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:48",
+    "object": "Hà Nội",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260917203001265"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:240",
+    "subject": "Điều 254 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:243",
+    "object": "Điều 254 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-254"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-254"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:240",
+    "subject": "Điều 254 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:244",
+    "object": "Điều 254 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-254"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-254"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:245",
+    "subject": "Điều 255 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:246",
+    "object": "tổ chức sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-255"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:245",
+    "subject": "Điều 255 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:247",
+    "object": "Điều 255 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-255"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:245",
+    "subject": "Điều 255 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:248",
+    "object": "Điều 255 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-255"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:245",
+    "subject": "Điều 255 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:249",
+    "object": "Điều 255 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-255"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:245",
+    "subject": "Điều 255 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:250",
+    "object": "Điều 255 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-255"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:245",
+    "subject": "Điều 255 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:251",
+    "object": "Điều 255 BLHS khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-255"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-255"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:252",
+    "subject": "Điều 256 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:253",
+    "object": "chứa chấp việc sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-256"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-256"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:252",
+    "subject": "Điều 256 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:254",
+    "object": "Điều 256 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-256"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-256"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:47",
+    "subject": "Vụ vận chuyển hơn 9,6kg ma túy từ Đức về Việt Nam",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:212",
+    "object": "vận chuyển trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260917203001265"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:252",
+    "subject": "Điều 256 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:255",
+    "object": "Điều 256 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-256"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-256"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:252",
+    "subject": "Điều 256 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:256",
+    "object": "Điều 256 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-256"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-256"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:257",
+    "subject": "Điều 257 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:258",
+    "object": "cưỡng bức người khác sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-257"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:257",
+    "subject": "Điều 257 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:259",
+    "object": "Điều 257 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-257"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:257",
+    "subject": "Điều 257 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:260",
+    "object": "Điều 257 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-257"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:257",
+    "subject": "Điều 257 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:261",
+    "object": "Điều 257 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-257"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:257",
+    "subject": "Điều 257 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:262",
+    "object": "Điều 257 BLHS khoản 4",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-257"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:257",
+    "subject": "Điều 257 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:263",
+    "object": "Điều 257 BLHS khoản 5",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-257"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-257"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:264",
+    "subject": "Điều 258 BLHS",
+    "predicate": "DEFINES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:265",
+    "object": "lôi kéo người khác sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-258"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-258"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:47",
+    "subject": "Vụ vận chuyển hơn 9,6kg ma túy từ Đức về Việt Nam",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "amount": "Huy: hơn 9,6kg; Đạt: gần 4,3kg",
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260917203001265"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:47",
+    "subject": "Vụ vận chuyển hơn 9,6kg ma túy từ Đức về Việt Nam",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:49",
+    "object": "Ketamine",
+    "properties": {
+      "amount": "Huy: khoảng 406g",
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260917203001265"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:50",
+    "subject": "Cái Quang Huy",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:47",
+    "object": "Vụ vận chuyển hơn 9,6kg ma túy từ Đức về Việt Nam",
+    "properties": {
+      "sentence": "",
+      "role": "bị cáo",
+      "charge": "vận chuyển trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260917203001265"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:51",
+    "subject": "Nguyễn Tiến Đạt",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:47",
+    "object": "Vụ vận chuyển hơn 9,6kg ma túy từ Đức về Việt Nam",
+    "properties": {
+      "sentence": "",
+      "role": "bị cáo",
+      "charge": "vận chuyển trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260917203001265"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:52",
+    "subject": "Nguyễn Hữu Đức",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:47",
+    "object": "Vụ vận chuyển hơn 9,6kg ma túy từ Đức về Việt Nam",
+    "properties": {
+      "sentence": "",
+      "charge": "",
+      "role": "người liên quan",
+      "source_doc_ids": [
+        "news-100260917203001265"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260917203001265"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:271",
+    "subject": "Điều 259 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:273",
+    "object": "Điều 259 BLHS khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-259"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-259"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:53",
+    "subject": "Vụ góp 14 triệu đồng mua ma túy tại Hà Nội",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:48",
+    "object": "Hà Nội",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:53",
+    "subject": "Vụ góp 14 triệu đồng mua ma túy tại Hà Nội",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:219",
+    "object": "mua bán trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:53",
+    "subject": "Vụ góp 14 triệu đồng mua ma túy tại Hà Nội",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "amount": "5 viên",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:53",
+    "subject": "Vụ góp 14 triệu đồng mua ma túy tại Hà Nội",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:49",
+    "object": "Ketamine",
+    "properties": {
+      "amount": "nửa chỉ",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:54",
+    "subject": "Lê Minh Thành",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:53",
+    "object": "Vụ góp 14 triệu đồng mua ma túy tại Hà Nội",
+    "properties": {
+      "sentence": "36 tháng tù",
+      "role": "bị cáo",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:55",
+    "subject": "Trịnh Vũ Kiên",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:53",
+    "object": "Vụ góp 14 triệu đồng mua ma túy tại Hà Nội",
+    "properties": {
+      "sentence": "24 tháng tù",
+      "role": "bị cáo",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:56",
+    "subject": "Kim Xuân Tuấn",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:53",
+    "object": "Vụ góp 14 triệu đồng mua ma túy tại Hà Nội",
+    "properties": {
+      "sentence": "24 tháng tù",
+      "role": "bị cáo",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:57",
+    "subject": "Nguyễn Quang Hưng",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:53",
+    "object": "Vụ góp 14 triệu đồng mua ma túy tại Hà Nội",
+    "properties": {
+      "sentence": "24 tháng tù",
+      "role": "bị cáo",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:58",
+    "subject": "Vụ Cái Quang Huy vận chuyển ma túy qua sân bay Nội Bài",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:48",
+    "object": "Hà Nội",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:58",
+    "subject": "Vụ Cái Quang Huy vận chuyển ma túy qua sân bay Nội Bài",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:212",
+    "object": "vận chuyển trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:271",
+    "subject": "Điều 259 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:0",
+    "object": "Điều 259 BLHS khoản 2",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-259"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-259"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:58",
+    "subject": "Vụ Cái Quang Huy vận chuyển ma túy qua sân bay Nội Bài",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:199",
+    "object": "MDMA",
+    "properties": {
+      "amount": "hơn 9,6 kg",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:58",
+    "subject": "Vụ Cái Quang Huy vận chuyển ma túy qua sân bay Nội Bài",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:49",
+    "object": "Ketamine",
+    "properties": {
+      "amount": "gần 406 g",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:50",
+    "subject": "Cái Quang Huy",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:58",
+    "object": "Vụ Cái Quang Huy vận chuyển ma túy qua sân bay Nội Bài",
+    "properties": {
+      "sentence": "",
+      "role": "bị can",
+      "charge": "vận chuyển trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260918080821054"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260918080821054"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "subject": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:60",
+    "object": "TP.HCM",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260920221957595",
+        "news-100260925144412498"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595",
+      "news-100260925144412498"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "subject": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:219",
+    "object": "mua bán trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260920221957595",
+        "news-100260925144412498"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595",
+      "news-100260925144412498"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "subject": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:246",
+    "object": "tổ chức sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260920221957595",
+        "news-100260925144412498"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595",
+      "news-100260925144412498"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "subject": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:49",
+    "object": "Ketamine",
+    "properties": {
+      "amount": "",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:61",
+    "subject": "Dương Minh Tuấn",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "charge": "tổ chức sử dụng trái phép chất ma túy",
+      "role": "nghi phạm",
+      "source_doc_ids": [
+        "news-100260920221957595",
+        "news-100260925144412498"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595",
+      "news-100260925144412498"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:62",
+    "subject": "Kim Yu Young",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:63",
+    "subject": "Phạm Phương Anh",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:271",
+    "subject": "Điều 259 BLHS",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:1",
+    "object": "Điều 259 BLHS khoản 3",
+    "properties": {
+      "source_doc_ids": [
+        "blhs-dieu-259"
+      ]
+    },
+    "source_doc_ids": [
+      "blhs-dieu-259"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:64",
+    "subject": "Phạm Tài Vình",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:65",
+    "subject": "Lê Đăng Khoa",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:66",
+    "subject": "Giang Quốc Khánh",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:67",
+    "subject": "Phạm Minh Sang",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:68",
+    "subject": "Nguyễn Thành Quốc",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "mua bán trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:69",
+    "subject": "Nguyễn Hoàng Khả Ái",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:59",
+    "object": "Vụ triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "charge": "",
+      "role": "người liên quan",
+      "source_doc_ids": [
+        "news-100260920221957595"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260920221957595"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:70",
+    "subject": "Chuyên án triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:60",
+    "object": "TP.HCM",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260922111804786"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260922111804786"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:70",
+    "subject": "Chuyên án triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:219",
+    "object": "mua bán trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260922111804786"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260922111804786"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:70",
+    "subject": "Chuyên án triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:205",
+    "object": "tàng trữ trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260922111804786"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260922111804786"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:70",
+    "subject": "Chuyên án triệt phá 8 đường dây ma túy tại TP.HCM",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:246",
+    "object": "tổ chức sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260922111804786"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260922111804786"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:3",
+    "subject": "Điều 2 Luật PCMT",
+    "predicate": "HAS_CLAUSE",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:4",
+    "object": "Điều 2 Luật PCMT khoản 1",
+    "properties": {
+      "source_doc_ids": [
+        "pcmt-dieu-2"
+      ]
+    },
+    "source_doc_ids": [
+      "pcmt-dieu-2"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:71",
+    "subject": "Phan Kim Nhi",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:70",
+    "object": "Chuyên án triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260922111804786"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260922111804786"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:61",
+    "subject": "Dương Minh Tuấn",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:70",
+    "object": "Chuyên án triệt phá 8 đường dây ma túy tại TP.HCM",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260922111804786"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260922111804786"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:72",
+    "subject": "Vụ Hoàng Nato và Phan Kim Nhi sử dụng pod chill chứa ma túy",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:60",
+    "object": "TP.HCM",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260924095400982"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924095400982"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:72",
+    "subject": "Vụ Hoàng Nato và Phan Kim Nhi sử dụng pod chill chứa ma túy",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:246",
+    "object": "tổ chức sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260924095400982"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924095400982"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:72",
+    "subject": "Vụ Hoàng Nato và Phan Kim Nhi sử dụng pod chill chứa ma túy",
+    "predicate": "INVOLVES",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:73",
+    "object": "etomidate",
+    "properties": {
+      "amount": "5 ống ngày 7-9 và 5 ống ngày 12-9; bài báo cũng cho biết công an thu giữ hơn 1.000 đầu pod chill chứa etomidate trong chuyên án",
+      "source_doc_ids": [
+        "news-100260924095400982"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924095400982"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:61",
+    "subject": "Dương Minh Tuấn",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:72",
+    "object": "Vụ Hoàng Nato và Phan Kim Nhi sử dụng pod chill chứa ma túy",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260924095400982"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924095400982"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:71",
+    "subject": "Phan Kim Nhi",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:72",
+    "object": "Vụ Hoàng Nato và Phan Kim Nhi sử dụng pod chill chứa ma túy",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260924095400982"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924095400982"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:74",
+    "subject": "Vụ bắt giữ giang hồ mạng Đức Cộng",
+    "predicate": "LOCATED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:75",
+    "object": "Ninh Bình",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260924101703641"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924101703641"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:74",
+    "subject": "Vụ bắt giữ giang hồ mạng Đức Cộng",
+    "predicate": "CHARGED_WITH",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:246",
+    "object": "tổ chức sử dụng trái phép chất ma túy",
+    "properties": {
+      "source_doc_ids": [
+        "news-100260924101703641"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924101703641"
+    ]
+  },
+  {
+    "subject_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:76",
+    "subject": "Nguyễn Minh Đức",
+    "predicate": "INVOLVED_IN",
+    "object_id": "4:353cb3ed-bbb4-4c9c-aa53-4b7faa29ea67:74",
+    "object": "Vụ bắt giữ giang hồ mạng Đức Cộng",
+    "properties": {
+      "sentence": "",
+      "role": "nghi phạm",
+      "charge": "tổ chức sử dụng trái phép chất ma túy",
+      "source_doc_ids": [
+        "news-100260924101703641"
+      ]
+    },
+    "source_doc_ids": [
+      "news-100260924101703641"
+    ]
+  }
+]

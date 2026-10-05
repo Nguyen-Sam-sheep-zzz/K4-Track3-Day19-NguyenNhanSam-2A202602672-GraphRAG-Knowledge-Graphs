@@ -1,0 +1,33 @@
+{
+  "checked_at_utc": "2026-10-05T04:17:54.654191+00:00",
+  "config_source": "project_dotenv_only",
+  "gateway": "DevQuota",
+  "endpoint": "https://sv.devquote.shop/v1",
+  "credentials": {
+    "OPENAI_API_KEY": "set",
+    "OPENAI_BASE_URL": "set"
+  },
+  "models": {
+    "chat": "openai:gpt-6-luna",
+    "embedding": "openai:text-embedding-3-small"
+  },
+  "chat": {
+    "status": "ok",
+    "nonempty_response": true,
+    "exact_ok": true,
+    "usage": {
+      "calls": 1,
+      "input_tokens": 19,
+      "output_tokens": 5,
+      "usd": 0.0,
+      "seconds": 12.365578599999935
+    }
+  },
+  "embedding": {
+    "status": "error",
+    "error_type": "InternalServerError",
+    "http_status": 503,
+    "error_code": "model_not_found",
+    "param": null
+  }
+}

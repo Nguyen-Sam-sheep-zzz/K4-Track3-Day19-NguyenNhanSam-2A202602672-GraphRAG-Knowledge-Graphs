@@ -12,6 +12,7 @@ One run uses one provider for the whole benchmark — no mid-run failover, so co
 from __future__ import annotations
 
 import importlib
+import math
 import os
 import time
 from dataclasses import dataclass, fields
@@ -34,6 +35,7 @@ PRICES_PER_M = {
     "gpt-4o-mini": (0.15, 0.60),
     "gpt-4.1-mini": (0.40, 1.60),
     "gpt-4.1-nano": (0.10, 0.40),
+    "gpt-6-luna": (0.10, 0.50),
     "text-embedding-3-small": (0.02, 0.0),
     "text-embedding-3-large": (0.13, 0.0),
     "gemini-2.5-flash-lite": (0.10, 0.40),
@@ -50,6 +52,8 @@ class Usage:
     output_tokens: int = 0
     usd: float = 0.0
     seconds: float = 0.0
+    unpriced_calls: int = 0
+    missing_usage_calls: int = 0
 
     def __add__(self, other: "Usage") -> "Usage":
         return Usage(*(getattr(self, f.name) + getattr(other, f.name) for f in fields(self)))
@@ -58,7 +62,10 @@ class Usage:
         return Usage(*(getattr(self, f.name) - getattr(other, f.name) for f in fields(self)))
 
 def price(model: str, input_tokens: int, output_tokens: int = 0) -> float:
-    per_in, per_out = PRICES_PER_M.get(model.split("/")[-1], (0.0, 0.0))   # "openai/gpt-4o-mini" -> "gpt-4o-mini"
+    rates = PRICES_PER_M.get(model.split("/")[-1])
+    if rates is None:
+        return float('nan')
+    per_in, per_out = rates
     return (input_tokens * per_in + output_tokens * per_out) / 1_000_000
 
 def pick_provider(env_var: str, need_embeddings: bool) -> str:
@@ -104,6 +111,8 @@ class MeteredLLM:
         self.embedding_model = f"{self.embed_provider}:{self.embed_model_id}"
         self._backend_name = self.embedding_model
         self.usage = Usage()
+        self.records: list[dict] = []
+        self.embedding_assets: dict[str, list[float]] = {}
         self._chat_client: Any
         self._embed_client: Any
         if self.chat_provider == "anthropic":
@@ -136,7 +145,16 @@ class MeteredLLM:
             usage = response.usage
             tokens_in = usage.prompt_tokens if usage else 0
             tokens_out = usage.completion_tokens if usage else 0
-        self.usage += Usage(1, tokens_in, tokens_out, price(model, tokens_in, tokens_out), time.perf_counter() - start)
+        cost = price(model, tokens_in, tokens_out)
+        elapsed = time.perf_counter() - start
+        missing = usage is None if self.chat_provider != 'anthropic' else False
+        known = math.isfinite(cost) and not missing
+        self.usage += Usage(1, tokens_in, tokens_out, cost if known else 0.0, elapsed,
+                            int(not known), int(missing))
+        self.records.append({'kind': 'chat', 'model': self.chat_model, 'prompt': prompt,
+                             'answer': text, 'input_tokens': tokens_in if not missing else None,
+                             'output_tokens': tokens_out if not missing else None,
+                             'usd': cost if known else None, 'seconds': elapsed})
         return _strip_fences(text) if json_mode else text
 
     def _chat_anthropic(self, prompt: str) -> tuple[str, str, int, int]:
@@ -159,8 +177,46 @@ class MeteredLLM:
     def embed(self, text: str) -> list[float]:
         start = time.perf_counter()
         response = self._embed_client.embeddings.create(model=self.embed_model_id, input=text)
-        tokens = getattr(response.usage, "prompt_tokens", 0) or 0   # some OpenAI-compatible APIs omit usage
-        self.usage += Usage(1, tokens, 0, price(self.embed_model_id, tokens), time.perf_counter() - start)
-        return [float(value) for value in response.data[0].embedding]
+        raw_tokens = getattr(response.usage, "prompt_tokens", None)
+        tokens = raw_tokens or 0
+        cost = price(self.embed_model_id, tokens)
+        known = math.isfinite(cost) and raw_tokens is not None
+        elapsed = time.perf_counter() - start
+        self.usage += Usage(1, tokens, 0, cost if known else 0.0, elapsed,
+                            int(not known), int(raw_tokens is None))
+        self.records.append({'kind': 'embedding', 'model': self.embedding_model, 'text': text,
+                             'input_tokens': raw_tokens, 'usd': cost if known else None,
+                             'seconds': elapsed})
+        vector = [float(value) for value in response.data[0].embedding]
+        if hasattr(self, 'embedding_assets'):
+            self.embedding_assets[text] = vector
+        return vector
+
+    def embed_many(self, texts: list[str]) -> list[list[float]]:
+        """Batch API calls (used only for the separate node-index extension)."""
+        if not texts:
+            return []
+        start = time.perf_counter()
+        response = self._embed_client.embeddings.create(model=self.embed_model_id, input=texts)
+        raw_tokens = getattr(response.usage, 'prompt_tokens', None)
+        cost = price(self.embed_model_id, raw_tokens or 0)
+        known = math.isfinite(cost) and raw_tokens is not None
+        elapsed = time.perf_counter() - start
+        self.usage += Usage(1, raw_tokens or 0, 0, cost if known else 0.0, elapsed,
+                            int(not known), int(raw_tokens is None))
+        self.records.append({'kind': 'embedding_batch', 'model': self.embedding_model,
+                             'texts': texts, 'input_tokens': raw_tokens,
+                             'usd': cost if known else None, 'seconds': elapsed})
+        # Gemini compatibility API omits index=0 (protobuf default); preserve its position.
+        indexed = [(position if item.index is None else item.index, item)
+                   for position, item in enumerate(response.data)]
+        if sorted(i for i, _ in indexed) != list(range(len(texts))):
+            raise ValueError('Embedding response indices are missing or duplicated')
+        ordered = [item for _, item in sorted(indexed, key=lambda pair: pair[0])]
+        if len(ordered) != len(texts):
+            raise ValueError('Embedding response count differs from input count')
+        vectors = [[float(value) for value in item.embedding] for item in ordered]
+        self.embedding_assets.update(zip(texts, vectors))
+        return vectors
 
     __call__ = embed

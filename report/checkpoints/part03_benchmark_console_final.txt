@@ -1,0 +1,1 @@
+[provider] chat = openai:gpt-6-luna | embedding = gemini:gemini-embedding-001

@@ -1,0 +1,26 @@
+[provider] chat = openai:gpt-6-luna | embedding = gemini:gemini-embedding-001
+Q1 flat  recall=1.00 51.06s $0.00010
+Q1 graph recall=1.00 59.19s $0.00053
+Q2 flat  recall=1.00 69.44s $0.00009
+Q2 graph recall=1.00 67.93s $0.00073
+Q3 flat  recall=0.33 65.24s $0.00011
+Q3 graph recall=0.67 13.53s $0.00052
+Q4 flat  recall=0.33 20.32s $0.00012
+Q4 graph recall=0.67 11.00s $0.00077
+Q5 flat  recall=0.40 18.60s $0.00025
+Q5 graph recall=1.00 14.73s $0.00059
+Q6 flat  recall=0.00 14.54s $0.00013
+Q6 graph recall=0.67 19.11s $0.00082
+Chat model: openai:gpt-6-luna | Embedding: gemini:gemini-embedding-001 | top_k=3 | chunk_size=800 | chunks=176 | KG: 196 nodes / 365 rels
+
+== Indexing (one-off)
+pipeline  calls    in_tok  out_tok       USD  seconds
+flat        176         0        0   0.00000    108.1
+graph       196     35866     8556   0.00786    732.6
+
+== Querying (mean per question)
+pipeline  recall  judge   in_tok  out_tok       USD  seconds
+flat        0.51   1.33      729      124   0.00013    39.87
+graph       0.83   1.83     6105      100   0.00066    30.91
+
+Saved ket_qua_benchmark_kg.txt

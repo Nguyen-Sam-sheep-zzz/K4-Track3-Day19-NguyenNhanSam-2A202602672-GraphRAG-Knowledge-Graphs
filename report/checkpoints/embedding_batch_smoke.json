@@ -1,0 +1,13 @@
+[
+  {
+    "kind": "embedding_batch",
+    "model": "gemini:gemini-embedding-001",
+    "texts": [
+      "Tiền chất là hóa chất.",
+      "MDMA trong corpus pháp luật."
+    ],
+    "input_tokens": null,
+    "usd": null,
+    "seconds": 1.7350922999999057
+  }
+]
