@@ -1,6 +1,6 @@
 # Phần 4 — Node embeddings, BFS và hoàn tất artifact local
 
-05/10/2026. Lượt mở rộng `bench_kg_extended_benchmark_20261005-183106.json` và `../benchmark_kg_extended.json` đã đủ 40 rows. Graph giữ nguyên 203 node / 378 cạnh từ chuẩn; 203 node có vector Gemini 3072 chiều. Node indexing: 13 batch, 165.10 giây wall, thiếu giá/token usage Gemini. Export đủ 378 triples có source_doc_ids.
+05/10/2026. Lượt mở rộng `bench_kg_extended_benchmark_20261005-183106.json` và `../benchmark_kg_extended.json` đã đủ 40 rows. Graph giữ nguyên 203 node / 378 cạnh từ chuẩn; 203 node có vector Gemini 3072 chiều. Node indexing: 13 batch, 165.10 giây wall, thiếu token usage Gemini. Cập nhật 06/10: người học xác nhận Google AI Studio free tier, embedding thực trả 0 USD theo xác nhận này. Export đủ 378 triples có source_doc_ids.
 
 BFS có queue/visited, 4 hop, 180 node, bỏ MENTIONS, ưu tiên seed tên/alias rồi cosine; 100 facts. Dataset 20 câu có gold/criteria/nguồn và đường chứng cứ, gồm quan hệ và negative/multi-source reasoning. Không sửa bộ 6 câu gốc.
 

@@ -22,17 +22,18 @@ graph       0.82   1.67     4451      154   0.00052    12.89
 
 | Chỉ số | Flat | Graph | Graph / Flat |
 | --- | ---: | ---: | ---: |
-| Indexing USD chat phần định giá được | 0.00000 | 0.00752 | Không so sánh tổng: embedding Gemini không có token usage/giá áp dụng trong audit |
+| Indexing USD chat phần định giá được | 0.00000 | 0.00752 | Flat = 0 nên không chia tỷ lệ USD |
+| Embedding thực trả (indexing và query) | 0 USD | 0 USD | Google AI Studio free tier theo xác nhận người học |
 | Indexing thời gian | 219.3 s | 517.5 s | 2.36× |
 | Mỗi câu: USD phần định giá được | 0.00011 | 0.00052 | 4.73× từ số làm tròn |
 | Mỗi câu: thời gian | 10.14 s | 12.89 s | 1.27× |
 | Mỗi câu: input token được ghi nhận | 729 | 4451 | 6.11× |
 
-USD là subtotal của chat có token usage, dùng bảng giá OpenAI tham chiếu gpt-6-luna $0.10 input / $0.50 output mỗi triệu token (<https://developers.openai.com/api/docs/pricing>); không phải hóa đơn gateway. Google hiện niêm yết Gemini Embedding 2 ở $0.20/1M token tại https://ai.google.dev/gemini-api/docs/pricing, nhưng trang giá không niêm yết giá riêng cho gemini-embedding-001 là model đã chạy. API cũng không trả prompt_tokens, nên 176 embedding indexing và 12 embedding query không thể truy ra chi phí thực tế của lượt này. 0.00000 chỉ là subtotal chat, không phải embedding miễn phí. Cách chuyển sang OpenAI `text-embedding-3-small` với giá chính thức $0.02/1M input token được ghi trong `report/PRICING.md`; phải chạy lại toàn bộ benchmark, không trộn vector.
+USD trong output gốc là subtotal chat có token usage, dùng bảng giá OpenAI tham chiếu gpt-6-luna $0.10 input / $0.50 output mỗi triệu token (<https://developers.openai.com/api/docs/pricing>); không phải hóa đơn dịch vụ chat. Ngày 06/10/2026, người học xác nhận key Gemini dùng **Google AI Studio free tier**, nên chi phí thực trả cho 176 embedding indexing và 12 embedding query là **0 USD theo xác nhận này**. API không trả prompt_tokens, nên số token embedding vẫn chưa đo được; không suy ra free tier từ cột USD hoặc thay số token thiếu thành token đo được. Log gốc giữ usd=null cho embedding để bảo toàn dữ liệu API. Chưa đối soát billing độc lập; căn cứ và phạm vi áp dụng ghi trong `report/PRICING.md`.
 
 Graph indexing gồm cùng chunk embeddings và 20 chat extraction: riêng extraction 35,866 input / 7,876 output token, subtotal **$0.0075246**. Query Graph tăng vì prompt chứa facts luật/người/vụ. Judge được gọi ngoài usage query của grader: **12 lần, $0.0007981 subtotal và 105.30 giây API**, tách ở JSON chuẩn.
 
-Đây là cold chunk indexing, không thay lời gọi API bằng embedding cache. Launcher chờ khoảng 0.7 giây mỗi văn bản Gemini để dưới quota 100/phút; thời gian bảng bao gồm pacing, graph và ghi audit. API latency thuần không đồng nhất wall time. Graph tốn hơn cả indexing và query trong lượt này nên chưa có điểm hòa vốn USD; chưa có tổng embedding USD để tính tỷ lệ tổng chi phí.
+Đây là cold chunk indexing, không thay lời gọi API bằng embedding cache. Launcher chờ khoảng 0.7 giây mỗi văn bản Gemini để dưới quota 100/phút; thời gian bảng bao gồm pacing, graph và ghi audit. API latency thuần không đồng nhất wall time. Với embedding free tier bằng 0 USD, phần chênh lệch USD tham chiếu đến từ chat extraction và prompt query. Graph tốn hơn cả indexing và query theo giá chat tham chiếu, nên không có điểm hòa vốn USD trong cấu hình này. Chi phí indexing Flat bằng 0 nên tỷ lệ USD Graph/Flat không xác định; không gọi là 0 lần.
 
 ## 2. Từng câu hỏi
 

@@ -11,6 +11,7 @@ Bảng này cập nhật tiến độ cuối; phần bên dưới giữ thiết 
 - [x] Bộ 20 câu và 40 câu trả lời thật có trace; recall BFS 0.978 vs Flat 0.649. M17 còn lỗi phụ dù judge=2, đã ghi rõ.
 - [x] ONTOLOGY, REPORT_KG, REPORT_KG_EXTENDED, DEMO, STATUS; ba ảnh Neo4j thật.
 - [x] Rà nguồn/artifact/BFS limits, grader/gold/test gốc, secret/lịch sử Git: delivery_audit passed=true.
+- [x] Cập nhật 06/10: người học xác nhận Google AI Studio free tier; embedding thực trả 0 USD theo xác nhận này, số token chưa đo được. Báo cáo và script sinh báo cáo phân biệt rõ hai thông tin.
 - [ ] Bonus ontology +15: chưa thực hiện, không tự nhận.
 - [x] Commit/push đã thực hiện trên nhánh `feature/day19-completion`; ngày 06/10/2026 tích hợp vào `main` để nộp. Đổi tên repo và nộp VLearn chưa thực hiện.
 

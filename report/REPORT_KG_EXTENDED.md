@@ -28,7 +28,7 @@ Accuracy dưới đây = tỷ lệ câu được cùng LLM judge chấm **2/2** 
 | Latency trung bình/câu | 11.20 s | 12.92 s |
 | Latency p95/câu | 15.54 s | 16.06 s |
 | Query subtotal USD /20 câu | 0.0029815 | 0.0164948 |
-| Query calls thiếu giá | 20 | 40 |
+| Query embedding calls thiếu token usage trong bộ đo | 20 | 40 |
 
 Latency đo wall time retrieval + query embedding + chat, gồm pacing Gemini; judge đo riêng. p95 dùng nearest-rank trên 20 câu; đây là một lượt đo, không chứng minh tốc độ ổn định qua nhiều lần.
 
@@ -57,19 +57,19 @@ Latency đo wall time retrieval + query embedding + chat, gồm pacing Gemini; j
 
 ## 3. Indexing, query và judge cost
 
-| Thành phần | Phần định giá được | Phần chưa xác định |
+| Thành phần | USD chat tham chiếu / embedding thực trả theo free tier | Ghi chú |
 | --- | ---: | --- |
-| Chunk indexing dùng chung từ lượt chuẩn | $0.0000000 subtotal | 176 Gemini text embeddings thiếu giá/usage; không gọi là miễn phí |
+| Chunk indexing dùng chung từ lượt chuẩn | $0.0000000 | 176 Gemini embeddings free tier; số token chưa đo được |
 | KG extraction dùng chung từ lượt chuẩn | $0.0075246 | 20 chat extraction; giá tham chiếu, không phải hóa đơn gateway |
-| Node indexing thêm cho BFS | $0.0000000 subtotal, 165.10s wall | 13 batch /203 text embeddings thiếu giá/usage |
-| Query Flat 20 câu | $0.0029815 | 20 Gemini query embeddings thiếu giá/usage |
-| Query BFS 20 câu | $0.0164948 | 40 Gemini query embeddings thiếu giá/usage |
+| Node indexing thêm cho BFS | $0.0000000, 165.10s wall | 13 batch /203 embeddings free tier; số token chưa đo được |
+| Query Flat 20 câu | $0.0029815 chat tham chiếu + $0 embedding | 20 Gemini query embeddings free tier; số token chưa đo được |
+| Query BFS 20 câu | $0.0164948 chat tham chiếu + $0 embedding | 40 Gemini query embeddings free tier; số token chưa đo được |
 | Judge Flat 20 câu | $0.0014534 | Tách khỏi query |
 | Judge BFS 20 câu | $0.0013293 | Tách khỏi query |
 
-Giá chat tham chiếu gpt-6-luna: $0.10 input / $0.50 output mỗi triệu token. Google hiện niêm yết Gemini Embedding 2 ở $0.20/1M token tại https://ai.google.dev/gemini-api/docs/pricing, nhưng không niêm yết giá riêng cho gemini-embedding-001 là model đã chạy. API compatibility cũng không trả token usage, nên **chi phí thực tế embedding-001 của lượt này không xác định được**; các USD bên dưới là subtotal chat, không phải hóa đơn.
+Giá chat tham chiếu gpt-6-luna: $0.10 input / $0.50 output mỗi triệu token (<https://developers.openai.com/api/docs/pricing>); số USD chat không phải hóa đơn dịch vụ. Ngày 06/10/2026, người học xác nhận key Gemini của lượt này thuộc **Google AI Studio free tier**, nên **embedding thực trả 0 USD theo xác nhận này**, gồm chunk/node indexing và query. Số token embedding vẫn chưa đo được do API không trả usage; trường unpriced_calls/ usd=null trong JSON gốc được giữ để phản ánh giới hạn bộ đo. Chưa đối soát billing độc lập; không áp dụng mức 0 USD cho tài khoản trả phí hoặc mọi lượt tương lai. Xem PRICING.md.
 
-Lần node indexing đầu lỗi 429 sau 6 batch (96 văn bản); đã lưu audit/error riêng ở checkpoints/extended_batch_429_audit.json và .err, rồi thêm pacing theo số văn bản/batch. 96 embedding thành công của lần lỗi là chi phí vận hành thêm, không nằm trong node indexing 203 vector của lượt báo cáo; giá vẫn chưa biết. Tests pacing đạt. Không dùng cache để che chi phí indexing đã gọi.
+Lần node indexing đầu lỗi 429 sau 6 batch (96 văn bản); đã lưu audit/error riêng ở checkpoints/extended_batch_429_audit.json và .err, rồi thêm pacing theo số văn bản/batch. 96 embedding thành công của lần lỗi tiêu thụ quota và thời gian ngoài lượt 203 vector; chi phí thực trả vẫn 0 USD theo free tier được người học xác nhận. Tests pacing đạt. Giữ audit các lời gọi đã thực hiện.
 
 ## 4. Đọc kết quả và giới hạn
 
@@ -92,4 +92,4 @@ Case dùng khóa tên còn trùng vụ Huy/Viện Pháp y; nhiều tội trong m
 .\.venv\Scripts\python.exe scripts/write_extended_report.py
 ```
 
---resume chỉ tiếp tục khi config, graph fingerprint và question hash không đổi; --check phải chạy trước benchmark chuẩn vì nó reset graph. Lượt tương lai có thể khác do gateway/extraction không hoàn toàn tái lập; giữ artifact hiện tại làm bằng chứng. Chưa commit/push hoặc nộp VLearn; bonus ontology +15 không được tuyên bố.
+--resume chỉ tiếp tục khi config, graph fingerprint và question hash không đổi; --check phải chạy trước benchmark chuẩn vì nó reset graph. Lượt tương lai có thể khác do dịch vụ/extraction không hoàn toàn tái lập; giữ artifact hiện tại làm bằng chứng. Bản bàn giao đã đưa lên main; người học tự nộp VLearn. Bonus ontology +15 không được tuyên bố.

@@ -16,7 +16,7 @@ Artifact nguyên bản được lưu tại `part03_first_run.txt`. Model: DevQuo
 | Query USD phần đã biết/câu | 0.00013 | 0.00066 |
 | Indexing USD phần đã biết | 0.00000 | 0.00786 |
 
-USD trên là phần có giá/usage được xác minh, không phải tổng hóa đơn. Gemini thiếu token usage; 0 USD phần embedding trong bảng không chứng minh miễn phí. 188 request embedding của lần đầu thiếu giá/usage. Độ trễ là một lần đo, chịu biến động gateway; chưa chứng minh Graph luôn nhanh hơn.
+USD trên là phần có giá/usage được xác minh, không phải tổng hóa đơn. Ở checkpoint 05/10, chưa có thông tin loại tài khoản và 188 request embedding thiếu token usage. Cập nhật 06/10: người học xác nhận Google AI Studio free tier, nên embedding thực trả 0 USD theo xác nhận đó; số token vẫn chưa đo được. Độ trễ là một lần đo, chịu biến động dịch vụ; chưa chứng minh Graph luôn nhanh hơn.
 
 ## Lỗi thực tế và sửa sau benchmark
 

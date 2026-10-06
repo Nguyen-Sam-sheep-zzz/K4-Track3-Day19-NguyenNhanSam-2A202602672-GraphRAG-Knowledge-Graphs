@@ -1,17 +1,18 @@
-# Ghi chú chi phí và cách lấy giá thực tế
+# Ghi chú chi phí — Gemini free tier
 
 ## Kết quả đã đo trong bài
 
 - Chat dùng OpenAI-compatible API với model `gpt-6-luna`. Response có input/output token, nên báo cáo tính được subtotal chat theo bảng giá OpenAI chính thức hiện tại: `$0.10 / 1M input` và `$0.50 / 1M output` (short context). Đây là giá tham chiếu theo model; gateway có thể thu khác.
 - Embedding dùng `gemini-embedding-001`. Response trả vector 3072 chiều nhưng không trả `prompt_tokens`; audit ghi `input_tokens=null`, `usd=null` cho các request embedding.
-- Google hiện có mục giá cho **Gemini Embedding 2** ở `$0.20 / 1M text input tokens`: <https://ai.google.dev/gemini-api/docs/pricing>. Đây là model khác với `gemini-embedding-001`, nên không dùng giá Embedding 2 để gán ngược cho lượt chạy này.
-- Vì vậy chi phí embedding thực tế của lượt benchmark này được ghi là **unknown / chưa xác định**, không ghi `$0` và không gọi là miễn phí.
+- Ngày 06/10/2026, Nguyễn Nhân Sâm xác nhận key của lượt thực nghiệm thuộc **Google AI Studio free tier**. Theo xác nhận này, **chi phí thực trả embedding = 0 USD** cho chunk indexing, node indexing, query và các lượt embedding thử/lỗi đã gọi.
+- Số token embedding vẫn **chưa đo được**. `usd=null` trong log phản ánh bộ đo không có usage/đơn giá, không phải số tiền bị thu. Giữ nguyên log gốc và bổ sung thông tin free tier trong báo cáo; không suy ra free tier từ giá trị USD bằng 0 của bộ đo.
+- Căn cứ về loại tài khoản là xác nhận của người học; chưa đối soát dashboard billing độc lập. Mức 0 USD chỉ áp dụng cho lượt này trên free tier, không áp dụng cho tài khoản trả phí hoặc mọi lượt chạy tương lai.
 
-## Muốn có số tiền thực tế
+## Phân biệt chi phí thực trả và giá tham chiếu
 
-1. Mở billing/usage dashboard của project đã cấp `GEMINI_API_KEY`, lọc thời gian chạy benchmark và xem metric Embeddings. Đây là nguồn duy nhất cho số tiền bị trừ thật; API compatibility không cung cấp đủ token usage.
-2. Nếu cần một benchmark có chi phí tính được ngay từ response, dùng OpenAI chính thức với `OPENAI_BASE_URL=https://api.openai.com/v1`, key hợp lệ và `text-embedding-3-small`, rồi chạy lại toàn bộ indexing/query/20 câu. OpenAI đang niêm yết model này ở `$0.02 / 1M input tokens`; công thức là `input_tokens / 1,000,000 × 0.02`. Không trộn vector Gemini cũ với vector OpenAI mới.
-3. Nếu gateway sau này công bố một embedding model và đơn giá/token usage, cập nhật `src/llm.py`, chạy lại benchmark từ đầu và thay toàn bộ artifact chi phí.
+1. Chi phí embedding thực trả của bài là **0 USD theo free tier do người học xác nhận**; không cần số token để tính khoản thực trả này. Nếu cần chứng từ độc lập, lưu bằng chứng loại tài khoản/usage từ project đã cấp `GEMINI_API_KEY`, che thông tin riêng.
+2. Chi phí chat trong báo cáo vẫn là **ước tính theo token và bảng giá model**, chưa phải số tiền bị trừ qua dịch vụ cung cấp chat. Free tier Gemini chỉ áp dụng cho embedding của bài.
+3. Khi chuyển sang dịch vụ trả phí, cần usage và đúng đơn giá để tính chi phí. OpenAI `text-embedding-3-small` có mức tham chiếu `$0.02 / 1M input tokens`; công thức là `input_tokens / 1,000,000 × 0.02`. Đây là model khác; phải chạy lại indexing và benchmark nếu chuyển, không gán giá này cho vector Gemini đã tạo.
 
 ## Nguồn giá chính thức đã đối chiếu
 
@@ -28,4 +29,4 @@ EMBEDDING_PROVIDER=gemini
 GEMINI_EMBEDDING_MODEL=gemini-embedding-001
 ```
 
-Không đưa API key, `.env`, `.venv` hoặc billing screenshot chứa thông tin riêng vào repository. Báo cáo hiện tại dùng số subtotal có bằng chứng và ghi rõ phần chưa đo được.
+Không đưa API key, `.env`, `.venv` hoặc billing screenshot chứa thông tin riêng vào repository. Báo cáo tách chi phí embedding free tier theo xác nhận người học, chat ước tính và số token embedding chưa đo được.

@@ -31,7 +31,7 @@
 
 Graph bổ sung luật tốt hơn nhưng tăng prompt, chi phí chat và độ trễ trung bình. Đánh giá mở rộng có thêm ưu tiên seed và ngân sách 100 facts; không quy mọi cải thiện cho riêng thuật toán BFS. Judge cùng model trả lời, không phải chấm độc lập.
 
-Chat dùng OpenAI-compatible API với model `gpt-6-luna`; embedding dùng Gemini `gemini-embedding-001`. Endpoint cụ thể giữ trong `.env` local. Chi phí thực tế embedding-001 chưa đo được vì response không trả token usage và trang giá hiện tại không niêm yết giá riêng model này. Query 20 câu: Flat $0.0029815, BFS $0.0164948 subtotal chat; judge tách riêng.
+Chat dùng OpenAI-compatible API với model `gpt-6-luna`; embedding dùng Gemini `gemini-embedding-001`. Endpoint cụ thể giữ trong `.env` local. Ngày 06/10/2026, người học xác nhận key Gemini thuộc Google AI Studio free tier: **embedding thực trả 0 USD theo xác nhận này**, số token embedding vẫn chưa đo được. Chưa đối soát billing độc lập. Query 20 câu: Flat $0.0029815, BFS $0.0164948 là subtotal chat theo giá tham chiếu, không phải số tiền đã đối soát; judge tách riêng. Chi tiết ở PRICING.md.
 
 ## 3. Các giới hạn phải nói khi trình bày
 
