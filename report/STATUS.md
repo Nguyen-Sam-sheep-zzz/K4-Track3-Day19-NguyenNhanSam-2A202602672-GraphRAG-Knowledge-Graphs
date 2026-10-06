@@ -1,6 +1,6 @@
 # Tổng quan bàn giao Day 19
 
-**Nguyễn Nhân Sâm — 2A202602672 — 05/10/2026.** Đã hoàn thiện bộ artifact của bài chuẩn và phần mở rộng. Đây là bài thực nghiệm có phân tích lỗi; không khẳng định mọi đáp án đều đúng. Đã commit và push nhánh `feature/day19-completion`; chưa đổi tên repo hoặc nộp VLearn.
+**Nguyễn Nhân Sâm — 2A202602672 — cập nhật 06/10/2026.** Đã hoàn thiện bộ artifact của bài chuẩn và phần mở rộng. Đây là bài thực nghiệm có phân tích lỗi; không khẳng định mọi đáp án đều đúng. Nội dung nhánh `feature/day19-completion` đã tích hợp vào `main` bằng fast-forward để bàn giao nộp bài; chưa đổi tên repo hoặc nộp VLearn.
 
 ## 1. Tiến độ theo kế hoạch
 
@@ -47,7 +47,7 @@ Chat dùng OpenAI-compatible API với model `gpt-6-luna`; embedding dùng Gemin
 1. Đọc [DEMO.md](DEMO.md) và [PRICING.md](PRICING.md) để hiểu luồng, lệnh và cách lấy giá thật; mở [REPORT_KG.md](REPORT_KG.md) và [REPORT_KG_EXTENDED.md](REPORT_KG_EXTENDED.md) khi trình bày số liệu.
 2. Mở Neo4j tại http://localhost:7474/browser/; dùng query trong DEMO để trình bày đường Huy → Case → Crime ← Article, rồi giải thích lỗi trùng và ngân sách context.
 3. Kiểm tra yêu cầu tên repository của lớp: SUBMISSION.md yêu cầu `K4-DAY19-HoVaTen-MSSV`, tên GitHub hiện tại dài hơn mẫu. Chưa tự đổi tên; cần xác nhận cách chấm tên.
-4. Đã rà báo cáo/ảnh và push nhánh `feature/day19-completion` lên GitHub. Người học kiểm tra nội dung cuối, dùng link branch/commit để nộp VLearn theo quy định lớp.
+4. Bản nộp dùng nhánh `main`. Người học kiểm tra nội dung cuối và nộp link repository lên VLearn theo quy định lớp; trạng thái nộp trên VLearn chưa được kiểm chứng trong lượt này.
 
 Bonus ontology +15 chưa làm; không có đo trước–sau ontology mới nên không tự nhận bonus. Neo4j còn chạy để bạn demo; khi xong có thể `docker stop neo4j-drug-kg`.
 

@@ -12,7 +12,7 @@ Bảng này cập nhật tiến độ cuối; phần bên dưới giữ thiết 
 - [x] ONTOLOGY, REPORT_KG, REPORT_KG_EXTENDED, DEMO, STATUS; ba ảnh Neo4j thật.
 - [x] Rà nguồn/artifact/BFS limits, grader/gold/test gốc, secret/lịch sử Git: delivery_audit passed=true.
 - [ ] Bonus ontology +15: chưa thực hiện, không tự nhận.
-- [x] Commit/push đã thực hiện trên nhánh `feature/day19-completion`; đổi tên repo và nộp VLearn chưa thực hiện.
+- [x] Commit/push đã thực hiện trên nhánh `feature/day19-completion`; ngày 06/10/2026 tích hợp vào `main` để nộp. Đổi tên repo và nộp VLearn chưa thực hiện.
 
 Các lỗi context/LLM/extraction còn lại được giữ trong báo cáo; hoàn tất artifact không đồng nghĩa mọi đáp án đúng. Ảnh là toàn viewport browser, thiếu OS window chrome; tên repo dài hơn mẫu SUBMISSION. Xem `report/STATUS.md` trước khi nộp.
 
